@@ -1,0 +1,129 @@
+2025-01-15 10:48:15,772 - INFO - Starting TechInAsia scraper v1.4
+2025-01-15 10:48:15,773 - INFO - ====== WebDriver manager ======
+2025-01-15 10:48:16,094 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 10:48:16,206 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 10:48:16,303 - INFO - There is no [mac64] chromedriver "132.0.6834.83" for browser google-chrome "132.0.6834" in cache
+2025-01-15 10:48:16,316 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 10:48:16,571 - INFO - WebDriver version 132.0.6834.83 selected
+2025-01-15 10:48:16,574 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.83/mac-x64/chromedriver-mac-x64.zip
+2025-01-15 10:48:16,574 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.83/mac-x64/chromedriver-mac-x64.zip
+2025-01-15 10:48:16,673 - INFO - Driver downloading response is 200
+2025-01-15 10:48:17,938 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 10:48:18,109 - INFO - Driver has been saved in cache [/Users/apple/.wdm/drivers/chromedriver/mac64/132.0.6834.83]
+2025-01-15 10:48:20,111 - INFO - patching driver executable /Users/apple/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-01-15 10:48:20,926 - INFO - WebDriver initialized successfully
+2025-01-15 10:48:24,852 - INFO - Processed article saudi-firm-halo-ai-secures-6m-global-expansion - Saudi firm Halo AI secures $6m for global expansion
+2025-01-15 10:48:24,853 - INFO - Processed article israeli-cybersecurity-startup-raises-36m-seed-funding - Israeli cybersecurity startup raises $36m seed funding
+2025-01-15 10:48:24,854 - INFO - Processed article biden-signs-order-ai-data-centers-usmade-chips - Biden signs order for AI data centers, US-made chips
+2025-01-15 10:48:24,854 - INFO - Processed article aws-general-catalyst-advance-ai-tools-support-healthcare - AWS, General Catalyst advance AI tools to support healthcare
+2025-01-15 10:48:24,854 - INFO - Processed article trump-set-ai-chip-export-restrictions - Trump likely to keep US AI chip export restrictions
+2025-01-15 10:48:24,855 - INFO - Processed article openai-urges-action-maintain-ai-leadership - OpenAI urges action to maintain US AI leadership
+2025-01-15 10:48:24,855 - INFO - Processed article tsmc-q4-profit-set-surge-58-strong-ai-chip-demand - TSMC Q4 profit set to surge 58% on strong AI chip demand
+2025-01-15 10:48:24,856 - INFO - Processed article pubg-maker-to-invest-136m-game-studios - PUBG maker Krafton to invest $136m in game studios
+2025-01-15 10:48:24,856 - INFO - Processed article microsoft-forms-engineering-group-boost-ai-tools - Microsoft forms new engineering group to boost AI tools
+2025-01-15 10:48:24,858 - INFO - Processed article tighten-ai-chip-exports-targets-china - US tightens AI chip exports, targets China
+2025-01-15 10:48:24,858 - INFO - Processed article indonesian-digital-character-generator-nets-seed - Indonesian AI character generator nets $5m seed
+2025-01-15 10:48:24,859 - INFO - Processed article googles-automotive-agent-enhances-voice-assist-mercedes-cla - Google’s AI agent enhances voice assist in Mercedes CLA
+2025-01-15 10:48:24,859 - INFO - Processed article adobe-launches-ai-tool-bulk-image-editing - Adobe launches new AI tool for bulk image editing
+2025-01-15 10:48:24,860 - INFO - Processed article chinese-ai-startup-deepseek-launches-free-ios-app - Chinese AI startup DeepSeek launches free iOS app
+2025-01-15 10:48:24,860 - INFO - Processed article south-korea-boosts-ai-semiconductor-ties-israel-japan - South Korea boosts AI, semiconductor ties with Israel, Japan
+2025-01-15 10:48:26,876 - INFO - Scrolled 1 times, found 15 articles
+2025-01-15 10:48:27,001 - INFO - Processed article sk-telecom-launches-gpuaas-south-koreas-ai-data-center - SK Telecom launches GPUaaS for South Korea’s AI data center
+2025-01-15 10:48:27,002 - INFO - Processed article youtubers-sell-unused-video-footage-ai-firms - YouTubers sell unused video footage to AI firms
+2025-01-15 10:48:27,002 - INFO - Processed article singtel-launches-perplexity-pro-ai-free-year-access - Singtel launches Perplexity Pro AI with free year access
+2025-01-15 10:48:27,002 - INFO - Processed article chinas-deepseek-relies-young-team-challenge-giants - China’s DeepSeek relies on young team to challenge US giants
+2025-01-15 10:48:27,003 - INFO - Processed article chinese-firms-showcase-ai-robots-evs-ces-2025 - Chinese firms showcase AI robots, EVs at CES 2025
+2025-01-15 10:48:27,003 - INFO - Processed article alibaba-cloud-launches-ai-tool-faster-app-development - Alibaba Cloud launches AI tool for faster app development
+2025-01-15 10:48:27,003 - INFO - Processed article hyundai-partners-nvidia-advance-ai-mobility - Hyundai partners with Nvidia to advance AI in mobility
+2025-01-15 10:48:27,004 - INFO - Processed article ant-group-connect-280k-doctors-haodf-healthcare-platform - Ant Group to connect 280k doctors on Haodf healthcare platform
+2025-01-15 10:48:27,004 - INFO - Processed article openai-meta-uber-execs-attend-trumps-inauguration - OpenAI, Meta, Uber execs set to attend Trump’s inauguration
+2025-01-15 10:48:27,004 - INFO - Processed article openai-considers-highvolume-production-humanoid-robots - OpenAI considers high-volume production of humanoid robots
+2025-01-15 10:48:27,005 - INFO - Processed article us-agencies-partially-back-musks-legal-challenge-openai - US agencies partially back Musk’s legal challenge against OpenAI
+2025-01-15 10:48:27,005 - INFO - Processed article microsoft-sues-group-azure-openai-service - Microsoft sues group over Azure OpenAI service
+2025-01-15 10:48:27,006 - INFO - Processed article nvidia-raises-concerns-bidens-reported-export-restrictions - Nvidia raises concerns over Biden’s reported export restrictions
+2025-01-15 10:48:27,006 - INFO - Processed article tsmc-achieves-q4-revenue-due-growing-ai-demand - TSMC achieves $26.3b in Q4 revenue due to growing AI demand
+2025-01-15 10:48:27,007 - INFO - Processed article musks-attorney-urges-openai-auction-sources - Musk’s attorney urges OpenAI auction: sources
+2025-01-15 10:48:29,907 - INFO - Scrolled 2 times, found 30 articles
+2025-01-15 10:48:30,036 - INFO - Processed article perplexity-integrates-tripadvisor-improve-hotel-searches - Perplexity integrates Tripadvisor to improve hotel searches
+2025-01-15 10:48:30,037 - INFO - Processed article meta-faces-allegations-pirated-books-ai - Meta faces allegations of using pirated books for AI
+2025-01-15 10:48:30,037 - INFO - Processed article healthcare-startup-hippocratic-ai-raises-141m-funding - Healthcare startup Hippocratic AI raises $141m in funding
+2025-01-15 10:48:30,038 - INFO - Processed article netherlands-nvidia-team-210m-ai-research-facility - Nvidia, Netherlands team up on $210m AI research facility
+2025-01-15 10:48:30,038 - INFO - Processed article inshorts-cofounder-launches-ai-platform-noncoders - Inshorts co-founder launches AI platform for non-coders
+2025-01-15 10:48:30,038 - INFO - Processed article sk-telecom-sk-hynix-penguin-partner-ai-data-centers - SK Telecom, SK hynix, Penguin partner on AI data centers
+2025-01-15 10:48:30,039 - INFO - Processed article delta-air-lines-unveils-ai-assistant-travel-booking - Delta Air Lines unveils AI assistant for travel, booking
+2025-01-15 10:48:30,039 - INFO - Processed article corp-launches-grok-chatbot-app-beta-ios-users - X Corp launches Grok chatbot app in beta for iOS users
+2025-01-15 10:48:30,039 - INFO - Processed article hk-construction-tech-company-raises-3m-series - HK construction tech company raises $3m series A
+2025-01-15 10:48:30,040 - INFO - Processed article ai-boosts-bank-profits-but-costs-jobs-worldwide-report - AI boosts bank profits but costs 200k jobs worldwide: report
+2025-01-15 10:48:30,040 - INFO - Processed article nvidia-unveils-breakthrough-ai-chips-ces-2025 - Nvidia unveils breakthrough AI chips at CES 2025
+2025-01-15 10:48:30,040 - INFO - Processed article chip-export-controls-threaten-us-ai-leadership-industry-group - Chip export controls threaten US AI leadership: industry group
+2025-01-15 10:48:30,041 - INFO - Processed article ai-jobs-top-linkedins-job-growth-list - AI jobs top LinkedIn’s US job growth list
+2025-01-15 10:48:30,041 - INFO - Processed article indian-deeptech-firm-names-cto-ayush-gupta-cofounder - Indian deeptech firm names CTO Ayush Gupta as co-founder
+2025-01-15 10:48:30,042 - INFO - Processed article microsoft-invests-3b-india-public-private-deals - Microsoft invests $3b in India with public, private deals
+2025-01-15 10:48:32,064 - INFO - Scrolled 3 times, found 45 articles
+2025-01-15 10:48:32,239 - INFO - Processed article tesla-explosion-trump-hotel-linked-genai - Tesla explosion outside Trump Hotel linked to genAI
+2025-01-15 10:48:32,244 - INFO - Processed article ces-2025-showcases-ai-selfdriving-cars - CES 2025 showcases AI, self-driving cars
+2025-01-15 10:48:32,266 - INFO - Processed article south-koreans-spend-900-million-minutes-ai-services - South Koreans spend 900m minutes on AI services
+2025-01-15 10:48:32,287 - INFO - Processed article apple-update-ai-summaries-misinformation-concerns - Apple to update AI summaries after misinformation concerns
+2025-01-15 10:48:32,308 - INFO - Processed article half-saudi-deep-tech-startups-focus-ai-iot-report - Half of Saudi deeptech startups focus on AI, IoT: report
+2025-01-15 10:48:32,329 - INFO - Processed article google-deepmind-forms-team-improve-ai-world-models - Google DeepMind forms team to improve AI, world models
+2025-01-15 10:48:32,329 - INFO - Processed article chinas-01ai-founder-denies-selling-assets-alibaba-cloud - China’s 01.AI founder denies selling assets to Alibaba Cloud
+2025-01-15 10:48:32,330 - INFO - Processed article chinese-healthcare-firm-weimai-raises-273m-series - Chinese healthcare firm Weimai raises $27.3m series D
+2025-01-15 10:48:32,331 - INFO - Processed article microsoft-announces-3b-investment-india - Microsoft announces $3b investment in India
+2025-01-15 10:48:32,331 - INFO - Processed article nvidia-debuts-rtx-gpus-agentic-ai-ces-2025 - Nvidia debuts RTX GPUs, ‘Agentic AI’ at CES 2025
+2025-01-15 10:48:32,332 - INFO - Processed article ai-startup-funding-hits-record-97b-2024 - US AI startup funding hits record $97b in 2024
+2025-01-15 10:48:32,333 - INFO - Processed article asia-chip-shares-rise-nvidia-ceos-ces-speech - Asia chip shares rise ahead of Nvidia CEO’s CES speech
+2025-01-15 10:48:32,334 - INFO - Processed article ces-2025-set-highlight-ai-automotive-innovations - CES 2025 set to highlight AI, automotive innovations
+2025-01-15 10:48:32,334 - INFO - Processed article meta-expands-board-strategic-appointments - Meta expands board with new strategic appointments
+2025-01-15 10:48:32,335 - INFO - Processed article nvidia-stock-hits-record-high-ceos-speech - Nvidia stock hits record high ahead of CEO’s speech
+2025-01-15 10:48:35,338 - INFO - Scrolled 4 times, found 60 articles
+2025-01-15 10:48:35,499 - INFO - Processed article indian-healthtech-firm-consintai-raises-58k-seed-funding - Indian healthtech firm Consint.AI raises $58k seed funding
+2025-01-15 10:48:35,500 - INFO - Processed article openai-forecasts-5b-loss-200-chatgpt-pro-struggles - OpenAI forecasts $5b loss as $200 ChatGPT Pro struggles
+2025-01-15 10:48:35,500 - INFO - Processed article microsoft-plans-80b-aifocused-data-center-investments - Microsoft plans $80b AI-focused data center investments
+2025-01-15 10:48:35,500 - INFO - Processed article us-plans-ai-chip-export-controls-china - US plans new AI chip export controls for China
+2025-01-15 10:48:35,501 - INFO - Processed article chinas-stateowned-ai-firm-names-exibm-exec-cto - China’s state-owned AI firm names ex-IBM exec as CTO
+2025-01-15 10:48:35,501 - INFO - Processed article alibaba-cloud-rayneo-team-integrate-ai-models-ar - Alibaba Cloud, RayNeo team up to integrate AI models in AR
+2025-01-15 10:48:35,502 - INFO - Processed article russia-partners-china-advance-ai-key-sectors - Russia partners with China to advance AI in key sectors
+2025-01-15 10:48:35,502 - INFO - Processed article sensetime-downsizes-sg-office-space-competition - SenseTime downsizes SG office space amid competition
+2025-01-15 10:48:35,502 - INFO - Processed article ai-demand-drives-nvidias-2t-gain-2024 - AI demand drives Nvidia’s $2t gain in 2024
+2025-01-15 10:48:35,503 - INFO - Processed article grab-openais-gpt4o-boost-map-accuracy - Grab uses OpenAI’s GPT-4o to improve map accuracy
+2025-01-15 10:48:35,503 - INFO - Processed article foxconn-invests-345m - Foxconn invests $345m in US
+2025-01-15 10:48:35,504 - INFO - Processed article alipay-introduces-ai-tool-analyzing-images-app - Alipay introduces AI tool for analyzing images in app
+2025-01-15 10:48:35,504 - INFO - Processed article alibaba-cloud-cuts-price-ai-models-85 - Alibaba Cloud cuts the price of AI models by 85%
+2025-01-15 10:48:35,504 - INFO - Processed article nvidia-completes-700m-runai-acquisition-eu-approval - Nvidia completes $700m Run:ai acquisition after EU approval
+2025-01-15 10:48:35,505 - INFO - Processed article blockchainpowered-ai-agent-ai16z-hits-15b-market-cap - Blockchain-powered AI agent AI16z hits $1.5b market cap
+2025-01-15 10:48:36,959 - INFO - Scrolled 5 times, found 75 articles
+2025-01-15 10:48:37,138 - INFO - Processed article google-to-focus-on-gemini-ai-expansion-2025 - Google to focus on Gemini AI expansion in 2025
+2025-01-15 10:48:37,139 - INFO - Processed article chinas-top-stock-2024-targets-growth-ai - China’s top stock of 2024 targets growth with AI
+2025-01-15 10:48:37,140 - INFO - Processed article nvidia-supplier-ibiden-boosts-production-ai-chips - Nvidia supplier Ibiden boosts production for AI chips
+2025-01-15 10:48:37,140 - INFO - Processed article taiwans-609m-cuts-risk-ai-semiconductor-industries - Taiwan’s $609m cuts risk its AI, semiconductor industries
+2025-01-15 10:48:37,141 - INFO - Processed article openai-plans-shift-public-benefit-corporation - OpenAI plans to shift to public benefit corporation
+2025-01-15 10:48:37,141 - INFO - Processed article shanghai-plans-medical-ai-hub-2027 - Shanghai plans to become medical AI hub by 2027
+2025-01-15 10:48:37,142 - INFO - Processed article xiaohongshu-launches-ai-search-tool-lifestyle - Xiaohongshu launches AI search tool for lifestyle
+2025-01-15 10:48:37,143 - INFO - Processed article hong-kong-startup-offers-ai-avatars-eyes-revenue-boost - Hong Kong startup offers AI avatars, eyes revenue boost
+2025-01-15 10:48:37,143 - INFO - Processed article chinese-ai-firm-deepseek-unveils-model-surpassing-gpt4 - Chinese AI firm DeepSeek unveils model surpassing GPT-4
+2025-01-15 10:48:37,143 - INFO - Processed article nvidia-leads-gpu-bids-indias-ai-mission - Nvidia leads GPU bids in India’s AI mission
+2025-01-15 10:48:37,144 - INFO - Processed article chatgpt-vulnerable-hidden-content-tests-show - ChatGPT reportedly vulnerable to hidden content, tests show
+2025-01-15 10:48:37,144 - INFO - Processed article ai-crypto-fuel-record-stock-market-boom-2024 - AI, crypto fuel record stock market boom in 2024
+2025-01-15 10:48:37,145 - INFO - Processed article google-tests-gemini-ai-anthropics-claude - Google tests Gemini AI against Anthropic’s Claude
+2025-01-15 10:48:37,145 - INFO - Processed article openais-new-model-shows-favorable-results-but-faces-high-costs - OpenAI’s new model shows favorable results, but faces high costs
+2025-01-15 10:48:37,146 - INFO - Processed article tencent-backed-chinese-ai-startup-raises-series-b-funding - Tencent-backed Chinese AI startup raises series B funding
+2025-01-15 10:48:39,127 - INFO - Scrolled 6 times, found 90 articles
+2025-01-15 10:48:39,321 - INFO - Processed article israeli-data-analytics-firm-acquires-aporia-for-50m - Israeli data analytics firm acquires Aporia for $50m
+2025-01-15 10:48:39,322 - INFO - Processed article musks-xai-secures-6b-latest-funding - Musk’s xAI secures $6b in latest funding round
+2025-01-15 10:48:39,322 - INFO - Processed article andreessen-accuses-biden-favoring-firms-ai-regulations - Andreessen accuses Biden of favoring firms in AI regulations
+2025-01-15 10:48:39,323 - INFO - Processed article trump-names-ai-crypto-experts-key-tech-roles-2025 - Trump names AI, crypto experts to key tech roles for 2025
+2025-01-15 10:48:39,323 - INFO - Processed article apple-nears-4t-valuation-ai-boosts-stock-rise - Apple nears $4t valuation as AI boosts stock rise
+2025-01-15 10:48:39,323 - INFO - Processed article ola-groups-ai-firm-offers-free-cloud-credits-students - Ola Group’s AI firm offers free cloud credits for students
+2025-01-15 10:48:39,324 - INFO - Processed article blacklists-chinese-firm-sophgo-over-huawei-chip-supply - US to blacklist Chinese firm Sophgo over Huawei chip supply
+2025-01-15 10:48:39,324 - INFO - Processed article musks-xai-launches-beta-grok-chatbot-app-ios - Musk’s xAI launches beta Grok chatbot app for iOS
+2025-01-15 10:48:39,324 - INFO - Processed article indian-edtech-startup-raises-4m-seed-aidriven-tutoring - Indian edtech startup raises $4m seed for AI-driven tutoring
+2025-01-15 10:48:39,325 - INFO - Processed article trump-appoints-exa16z-general-partner-ai-policy-advisor - Trump appoints ex-a16z general partner as AI policy advisor
+2025-01-15 10:48:42,147 - INFO - Scrolled 7 times, found 100 articles
+2025-01-15 10:48:42,172 - INFO - Saved batch 1 to techinasia_output/techinasia_ai_news_v1_batch_0_20250115_104842.csv
+2025-01-15 10:48:42,728 - INFO - Successfully scraped 100 articles
+2025-01-15 10:48:42,745 - INFO - --- Scraping Summary ---
+2025-01-15 10:48:42,745 - INFO - Total articles scraped: 100
+2025-01-15 10:48:42,745 - INFO - Valid articles scraped: 100
+2025-01-15 10:48:42,745 - INFO - Incomplete articles skipped: 0
+2025-01-15 10:48:42,745 - INFO - Duplicate articles skipped: 0
+2025-01-15 10:48:42,745 - INFO - ------------------------

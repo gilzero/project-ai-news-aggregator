@@ -1,0 +1,30 @@
+2025-01-14 20:52:01,586 - INFO - Starting TechInAsia scraper v1
+2025-01-14 20:52:01,588 - INFO - ====== WebDriver manager ======
+2025-01-14 20:52:02,083 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-14 20:52:02,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-14 20:52:02,286 - INFO - Driver [/Users/apple/.wdm/drivers/chromedriver/mac64/131.0.6778.264/chromedriver-mac-x64/chromedriver] found in cache
+2025-01-14 20:52:03,240 - INFO - WebDriver initialized successfully
+2025-01-14 20:52:07,912 - INFO - Scrolled 1 times, found 15 articles
+2025-01-14 20:52:09,500 - INFO - Scrolled 2 times, found 45 articles
+2025-01-14 20:52:10,995 - INFO - Scrolled 3 times, found 90 articles
+2025-01-14 20:52:12,308 - INFO - Scrolled 4 times, found 100 articles
+2025-01-14 20:52:12,318 - INFO - Saved batch 1 to techinasia_output/techinasia_ai_news_v1_batch_0_20250114_205212.csv
+2025-01-14 20:52:12,449 - INFO - Successfully scraped 45 articles
+2025-01-15 09:34:34,015 - INFO - Starting TechInAsia scraper v1
+2025-01-15 09:34:34,016 - INFO - ====== WebDriver manager ======
+2025-01-15 09:34:34,347 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 09:34:34,471 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 09:34:34,572 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 09:34:34,824 - INFO - WebDriver version 131.0.6778.264 selected
+2025-01-15 09:34:34,826 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/mac-x64/chromedriver-mac-x64.zip
+2025-01-15 09:34:34,827 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/mac-x64/chromedriver-mac-x64.zip
+2025-01-15 09:34:35,135 - INFO - Driver downloading response is 200
+2025-01-15 09:34:37,434 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 09:34:37,634 - INFO - Driver has been saved in cache [/Users/apple/.wdm/drivers/chromedriver/mac64/131.0.6778.264]
+2025-01-15 09:34:38,610 - INFO - WebDriver initialized successfully
+2025-01-15 09:34:43,266 - INFO - Scrolled 1 times, found 15 articles
+2025-01-15 09:34:44,893 - INFO - Scrolled 2 times, found 45 articles
+2025-01-15 09:34:46,361 - INFO - Scrolled 3 times, found 90 articles
+2025-01-15 09:34:47,951 - INFO - Scrolled 4 times, found 100 articles
+2025-01-15 09:34:47,975 - INFO - Saved batch 1 to techinasia_output/techinasia_ai_news_v1_batch_0_20250115_093447.csv
+2025-01-15 09:34:48,092 - INFO - Successfully scraped 45 articles

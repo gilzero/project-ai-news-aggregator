@@ -1,0 +1,64 @@
+2025-01-15 10:41:54,574 - INFO - Starting TechInAsia scraper v1.4
+2025-01-15 10:41:54,574 - INFO - ====== WebDriver manager ======
+2025-01-15 10:41:54,927 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 10:41:55,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 10:41:55,135 - INFO - Driver [/Users/apple/.wdm/drivers/chromedriver/mac64/131.0.6778.264/chromedriver-mac-x64/chromedriver] found in cache
+2025-01-15 10:41:56,807 - INFO - patching driver executable /Users/apple/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-01-15 10:41:58,217 - ERROR - Failed to initialize WebDriver: Message: session not created: cannot connect to chrome at 127.0.0.1:53589
+from session not created: This version of ChromeDriver only supports Chrome version 132
+Current browser version is 131.0.6778.265
+Stacktrace:
+0   undetected_chromedriver             0x000000010c43d538 undetected_chromedriver + 5539128
+1   undetected_chromedriver             0x000000010c4353fa undetected_chromedriver + 5506042
+2   undetected_chromedriver             0x000000010bf56640 undetected_chromedriver + 398912
+3   undetected_chromedriver             0x000000010bf95130 undetected_chromedriver + 655664
+4   undetected_chromedriver             0x000000010bf94119 undetected_chromedriver + 651545
+5   undetected_chromedriver             0x000000010bf895aa undetected_chromedriver + 607658
+6   undetected_chromedriver             0x000000010bfd75af undetected_chromedriver + 927151
+7   undetected_chromedriver             0x000000010bfd6ba6 undetected_chromedriver + 924582
+8   undetected_chromedriver             0x000000010bfcb293 undetected_chromedriver + 877203
+9   undetected_chromedriver             0x000000010bf98180 undetected_chromedriver + 668032
+10  undetected_chromedriver             0x000000010bf993fe undetected_chromedriver + 672766
+11  undetected_chromedriver             0x000000010c4031d0 undetected_chromedriver + 5300688
+12  undetected_chromedriver             0x000000010c4071e0 undetected_chromedriver + 5317088
+13  undetected_chromedriver             0x000000010c3e4ee7 undetected_chromedriver + 5177063
+14  undetected_chromedriver             0x000000010c407b7e undetected_chromedriver + 5319550
+15  undetected_chromedriver             0x000000010c3d4b14 undetected_chromedriver + 5110548
+16  undetected_chromedriver             0x000000010c4238d8 undetected_chromedriver + 5433560
+17  undetected_chromedriver             0x000000010c423a96 undetected_chromedriver + 5434006
+18  undetected_chromedriver             0x000000010c434fd8 undetected_chromedriver + 5504984
+19  libsystem_pthread.dylib             0x00007ff80da66253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80da61bef thread_start + 15
+
+2025-01-15 10:41:58,218 - ERROR - Scraping failed: Message: session not created: cannot connect to chrome at 127.0.0.1:53589
+from session not created: This version of ChromeDriver only supports Chrome version 132
+Current browser version is 131.0.6778.265
+Stacktrace:
+0   undetected_chromedriver             0x000000010c43d538 undetected_chromedriver + 5539128
+1   undetected_chromedriver             0x000000010c4353fa undetected_chromedriver + 5506042
+2   undetected_chromedriver             0x000000010bf56640 undetected_chromedriver + 398912
+3   undetected_chromedriver             0x000000010bf95130 undetected_chromedriver + 655664
+4   undetected_chromedriver             0x000000010bf94119 undetected_chromedriver + 651545
+5   undetected_chromedriver             0x000000010bf895aa undetected_chromedriver + 607658
+6   undetected_chromedriver             0x000000010bfd75af undetected_chromedriver + 927151
+7   undetected_chromedriver             0x000000010bfd6ba6 undetected_chromedriver + 924582
+8   undetected_chromedriver             0x000000010bfcb293 undetected_chromedriver + 877203
+9   undetected_chromedriver             0x000000010bf98180 undetected_chromedriver + 668032
+10  undetected_chromedriver             0x000000010bf993fe undetected_chromedriver + 672766
+11  undetected_chromedriver             0x000000010c4031d0 undetected_chromedriver + 5300688
+12  undetected_chromedriver             0x000000010c4071e0 undetected_chromedriver + 5317088
+13  undetected_chromedriver             0x000000010c3e4ee7 undetected_chromedriver + 5177063
+14  undetected_chromedriver             0x000000010c407b7e undetected_chromedriver + 5319550
+15  undetected_chromedriver             0x000000010c3d4b14 undetected_chromedriver + 5110548
+16  undetected_chromedriver             0x000000010c4238d8 undetected_chromedriver + 5433560
+17  undetected_chromedriver             0x000000010c423a96 undetected_chromedriver + 5434006
+18  undetected_chromedriver             0x000000010c434fd8 undetected_chromedriver + 5504984
+19  libsystem_pthread.dylib             0x00007ff80da66253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80da61bef thread_start + 15
+
+2025-01-15 10:41:58,219 - INFO - --- Scraping Summary ---
+2025-01-15 10:41:58,219 - INFO - Total articles scraped: 0
+2025-01-15 10:41:58,219 - INFO - Valid articles scraped: 0
+2025-01-15 10:41:58,219 - INFO - Incomplete articles skipped: 0
+2025-01-15 10:41:58,219 - INFO - Duplicate articles skipped: 0
+2025-01-15 10:41:58,219 - INFO - ------------------------
