@@ -1,0 +1,1160 @@
+2025-01-15 13:21:35,347 - INFO - Starting TechInAsia scraper v1.6
+2025-01-15 13:21:35,348 - INFO - ====== WebDriver manager ======
+2025-01-15 13:21:35,668 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 13:21:35,784 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 13:21:35,881 - INFO - Driver [/Users/apple/.wdm/drivers/chromedriver/mac64/132.0.6834.83/chromedriver-mac-x64/chromedriver] found in cache
+2025-01-15 13:21:37,393 - INFO - patching driver executable /Users/apple/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-01-15 13:21:38,356 - INFO - WebDriver initialized successfully 🚀
+2025-01-15 13:21:38,377 - INFO - Navigating to URL: https://www.techinasia.com/news?category=artificial-intelligence
+2025-01-15 13:21:41,937 - INFO - Page loaded successfully.
+2025-01-15 13:21:42,050 - INFO - Parsing article: None
+2025-01-15 13:21:42,050 - INFO -   - Extracting title...
+2025-01-15 13:21:42,050 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:21:42,050 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,050 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:21:42,050 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,051 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:21:42,051 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:21:42,051 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,051 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/07/1722327888_menara-ytl-kl-750x422.png 🖼️
+2025-01-15 13:21:42,051 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,051 - INFO -   - Time extracted: 11:08 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:21:42,052 - INFO -   - Categories: ['AI', 'Fintech'], Tags: ['Malaysia']
+2025-01-15 13:21:42,053 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:21:42,053 - INFO - Processed article ytl-sea-launch-malaysias-aipowered-digital-bank - Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:21:42,053 - INFO - Parsing article: None
+2025-01-15 13:21:42,053 - INFO -   - Extracting title...
+2025-01-15 13:21:42,053 - INFO -   - Title extracted: Taiwanese startup MetAI raises $4m seed funding
+2025-01-15 13:21:42,053 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,053 - INFO -   - Article URL extracted: https://www.techinasia.com/news/taiwanese-startup-metai-raises-4m-seed-funding, ID: taiwanese-startup-metai-raises-4m-seed-funding
+2025-01-15 13:21:42,054 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,054 - INFO -   - Source extracted: MetAI ✅
+2025-01-15 13:21:42,054 - INFO -   - Source URL extracted: https://www.met-ai.net/ 🌐
+2025-01-15 13:21:42,054 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,054 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736894729_MetAI.png 🖼️
+2025-01-15 13:21:42,054 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,054 - INFO -   - Time extracted: 11:00 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:21:42,054 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:42,055 - INFO - Article parsing complete: taiwanese-startup-metai-raises-4m-seed-funding 🎉
+2025-01-15 13:21:42,055 - INFO - Processed article taiwanese-startup-metai-raises-4m-seed-funding - Taiwanese startup MetAI raises $4m seed funding
+2025-01-15 13:21:42,055 - INFO - Parsing article: None
+2025-01-15 13:21:42,055 - INFO -   - Extracting title...
+2025-01-15 13:21:42,055 - INFO -   - Title extracted: Saudi firm Halo AI secures $6m for global expansion
+2025-01-15 13:21:42,055 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,055 - INFO -   - Article URL extracted: https://www.techinasia.com/news/saudi-firm-halo-ai-secures-6m-global-expansion, ID: saudi-firm-halo-ai-secures-6m-global-expansion
+2025-01-15 13:21:42,055 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,055 - INFO -   - Source extracted: Arab News ✅
+2025-01-15 13:21:42,056 - INFO -   - Source URL extracted: https://www.arabnews.com/node/2586359/business-economy 🌐
+2025-01-15 13:21:42,056 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,056 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736482663_shutterstock_2308739453-750x499.jpg 🖼️
+2025-01-15 13:21:42,056 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,056 - INFO -   - Time extracted: 10:05 AM at Jan 15, 2025 ⏰, Relative Time: 3h ago
+2025-01-15 13:21:42,056 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:42,056 - INFO - Article parsing complete: saudi-firm-halo-ai-secures-6m-global-expansion 🎉
+2025-01-15 13:21:42,056 - INFO - Processed article saudi-firm-halo-ai-secures-6m-global-expansion - Saudi firm Halo AI secures $6m for global expansion
+2025-01-15 13:21:42,057 - INFO - Parsing article: None
+2025-01-15 13:21:42,057 - INFO -   - Extracting title...
+2025-01-15 13:21:42,057 - INFO -   - Title extracted: Israeli cybersecurity startup raises $36m seed funding
+2025-01-15 13:21:42,057 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,057 - INFO -   - Article URL extracted: https://www.techinasia.com/news/israeli-cybersecurity-startup-raises-36m-seed-funding, ID: israeli-cybersecurity-startup-raises-36m-seed-funding
+2025-01-15 13:21:42,057 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,057 - INFO -   - Source extracted: Calcalist ✅
+2025-01-15 13:21:42,057 - INFO -   - Source URL extracted: https://www.calcalistech.com/ctechnews/article/bkot3kmwyl 🌐
+2025-01-15 13:21:42,057 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,057 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/12/1735011218_shutterstock_1956837997-750x553.jpg 🖼️
+2025-01-15 13:21:42,057 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,057 - INFO -   - Time extracted: 10:00 AM at Jan 15, 2025 ⏰, Relative Time: 3h ago
+2025-01-15 13:21:42,058 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:42,058 - INFO - Article parsing complete: israeli-cybersecurity-startup-raises-36m-seed-funding 🎉
+2025-01-15 13:21:42,058 - INFO - Processed article israeli-cybersecurity-startup-raises-36m-seed-funding - Israeli cybersecurity startup raises $36m seed funding
+2025-01-15 13:21:42,058 - INFO - Parsing article: None
+2025-01-15 13:21:42,058 - INFO -   - Extracting title...
+2025-01-15 13:21:42,058 - INFO -   - Title extracted: Biden signs order for AI data centers, US-made chips
+2025-01-15 13:21:42,058 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,058 - INFO -   - Article URL extracted: https://www.techinasia.com/news/biden-signs-order-ai-data-centers-usmade-chips, ID: biden-signs-order-ai-data-centers-usmade-chips
+2025-01-15 13:21:42,058 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,058 - INFO -   - Source extracted: CNBC ✅
+2025-01-15 13:21:42,059 - INFO -   - Source URL extracted: https://www.cnbc.com/2025/01/14/biden-opens-federal-land-for-ai-data-centers-sets-developer-rules.html 🌐
+2025-01-15 13:21:42,059 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,059 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1687941555_shutterstock_2286344107-750x500.jpg 🖼️
+2025-01-15 13:21:42,059 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,059 - INFO -   - Time extracted: 9:00 AM at Jan 15, 2025 ⏰, Relative Time: 4h ago
+2025-01-15 13:21:42,059 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:42,059 - INFO - Article parsing complete: biden-signs-order-ai-data-centers-usmade-chips 🎉
+2025-01-15 13:21:42,059 - INFO - Processed article biden-signs-order-ai-data-centers-usmade-chips - Biden signs order for AI data centers, US-made chips
+2025-01-15 13:21:42,060 - INFO - Parsing article: None
+2025-01-15 13:21:42,060 - INFO -   - Extracting title...
+2025-01-15 13:21:42,060 - INFO -   - Title extracted: AWS, General Catalyst advance AI tools to support healthcare
+2025-01-15 13:21:42,060 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,060 - INFO -   - Article URL extracted: https://www.techinasia.com/news/aws-general-catalyst-advance-ai-tools-support-healthcare, ID: aws-general-catalyst-advance-ai-tools-support-healthcare
+2025-01-15 13:21:42,060 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,060 - INFO -   - Source extracted: CNBC ✅
+2025-01-15 13:21:42,060 - INFO -   - Source URL extracted: https://www.cnbc.com/2025/01/13/health-care-ai-aws-and-general-catalyst-partner-to-speed-development.html 🌐
+2025-01-15 13:21:42,061 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,061 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736413903_shutterstock_1489195400-750x500.jpg 🖼️
+2025-01-15 13:21:42,061 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,061 - INFO -   - Time extracted: 6:05 PM at Jan 14, 2025 ⏰, Relative Time: 19h ago
+2025-01-15 13:21:42,061 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:42,061 - INFO - Article parsing complete: aws-general-catalyst-advance-ai-tools-support-healthcare 🎉
+2025-01-15 13:21:42,061 - INFO - Processed article aws-general-catalyst-advance-ai-tools-support-healthcare - AWS, General Catalyst advance AI tools to support healthcare
+2025-01-15 13:21:42,062 - INFO - Parsing article: None
+2025-01-15 13:21:42,062 - INFO -   - Extracting title...
+2025-01-15 13:21:42,062 - INFO -   - Title extracted: Trump likely to keep US AI chip export restrictions
+2025-01-15 13:21:42,062 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,062 - INFO -   - Article URL extracted: https://www.techinasia.com/news/trump-set-ai-chip-export-restrictions, ID: trump-set-ai-chip-export-restrictions
+2025-01-15 13:21:42,062 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,062 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:42,062 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-13/trump-likely-to-maintain-new-ai-chip-controls-top-biden-aide-jake-sullivan-says 🌐
+2025-01-15 13:21:42,062 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,062 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736341611_shutterstock_2434408241-750x502.jpg 🖼️
+2025-01-15 13:21:42,062 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,062 - INFO -   - Time extracted: 5:56 PM at Jan 14, 2025 ⏰, Relative Time: 19h ago
+2025-01-15 13:21:42,063 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:42,063 - INFO - Article parsing complete: trump-set-ai-chip-export-restrictions 🎉
+2025-01-15 13:21:42,063 - INFO - Processed article trump-set-ai-chip-export-restrictions - Trump likely to keep US AI chip export restrictions
+2025-01-15 13:21:42,063 - INFO - Parsing article: None
+2025-01-15 13:21:42,063 - INFO -   - Extracting title...
+2025-01-15 13:21:42,063 - INFO -   - Title extracted: OpenAI urges action to maintain US AI leadership
+2025-01-15 13:21:42,063 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,063 - INFO -   - Article URL extracted: https://www.techinasia.com/news/openai-urges-action-maintain-ai-leadership, ID: openai-urges-action-maintain-ai-leadership
+2025-01-15 13:21:42,063 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,063 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:42,063 - INFO -   - Source URL extracted: https://www.reuters.com/technology/artificial-intelligence/openai-urges-us-prioritize-ai-funding-regulation-stay-ahead-china-2025-01-13/ 🌐
+2025-01-15 13:21:42,063 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,064 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736148915_shutterstock_2511421515-750x494.jpg 🖼️
+2025-01-15 13:21:42,064 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,064 - INFO -   - Time extracted: 3:38 PM at Jan 14, 2025 ⏰, Relative Time: 21h ago
+2025-01-15 13:21:42,064 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:42,064 - INFO - Article parsing complete: openai-urges-action-maintain-ai-leadership 🎉
+2025-01-15 13:21:42,064 - INFO - Processed article openai-urges-action-maintain-ai-leadership - OpenAI urges action to maintain US AI leadership
+2025-01-15 13:21:42,064 - INFO - Parsing article: None
+2025-01-15 13:21:42,064 - INFO -   - Extracting title...
+2025-01-15 13:21:42,065 - INFO -   - Title extracted: TSMC Q4 profit set to surge 58% on strong AI chip demand
+2025-01-15 13:21:42,065 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,065 - INFO -   - Article URL extracted: https://www.techinasia.com/news/tsmc-q4-profit-set-surge-58-strong-ai-chip-demand, ID: tsmc-q4-profit-set-surge-58-strong-ai-chip-demand
+2025-01-15 13:21:42,065 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,065 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:42,065 - INFO -   - Source URL extracted: https://www.reuters.com/technology/tsmc-fourth-quarter-profit-seen-jumping-58-strong-ai-chip-demand-2025-01-13/ 🌐
+2025-01-15 13:21:42,065 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,066 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736217646_shutterstock_2486598645-750x500.jpg 🖼️
+2025-01-15 13:21:42,066 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,066 - INFO -   - Time extracted: 3:15 PM at Jan 14, 2025 ⏰, Relative Time: 22h ago
+2025-01-15 13:21:42,066 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:42,067 - INFO - Article parsing complete: tsmc-q4-profit-set-surge-58-strong-ai-chip-demand 🎉
+2025-01-15 13:21:42,067 - INFO - Processed article tsmc-q4-profit-set-surge-58-strong-ai-chip-demand - TSMC Q4 profit set to surge 58% on strong AI chip demand
+2025-01-15 13:21:42,067 - INFO - Parsing article: None
+2025-01-15 13:21:42,067 - INFO -   - Extracting title...
+2025-01-15 13:21:42,068 - INFO -   - Title extracted: PUBG maker Krafton to invest $136m in game studios
+2025-01-15 13:21:42,068 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,068 - INFO -   - Article URL extracted: https://www.techinasia.com/news/pubg-maker-to-invest-136m-game-studios, ID: pubg-maker-to-invest-136m-game-studios
+2025-01-15 13:21:42,068 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,068 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:42,068 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-13/-pubg-developer-plans-a-spending-spree-in-search-of-more-hits?srnd=phx-technology 🌐
+2025-01-15 13:21:42,068 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,068 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2022/07/1659095975_nbazhjy7wm3ehegpohqa-750x422.jpeg 🖼️
+2025-01-15 13:21:42,069 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,069 - INFO -   - Time extracted: 1:02 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:42,069 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:42,069 - INFO - Article parsing complete: pubg-maker-to-invest-136m-game-studios 🎉
+2025-01-15 13:21:42,069 - INFO - Processed article pubg-maker-to-invest-136m-game-studios - PUBG maker Krafton to invest $136m in game studios
+2025-01-15 13:21:42,070 - INFO - Parsing article: None
+2025-01-15 13:21:42,070 - INFO -   - Extracting title...
+2025-01-15 13:21:42,070 - INFO -   - Title extracted: Microsoft forms new engineering group to boost AI tools
+2025-01-15 13:21:42,070 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,070 - INFO -   - Article URL extracted: https://www.techinasia.com/news/microsoft-forms-engineering-group-boost-ai-tools, ID: microsoft-forms-engineering-group-boost-ai-tools
+2025-01-15 13:21:42,070 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,070 - INFO -   - Source extracted: The Verge ✅
+2025-01-15 13:21:42,070 - INFO -   - Source URL extracted: https://www.theverge.com/2025/1/13/24342793/microsoft-ai-engineering-group-coreai-jay-parikh 🌐
+2025-01-15 13:21:42,070 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,070 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/01/1673334449_Microsoft-750x563.jpg 🖼️
+2025-01-15 13:21:42,071 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,071 - INFO -   - Time extracted: 12:26 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:42,071 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:42,071 - INFO - Article parsing complete: microsoft-forms-engineering-group-boost-ai-tools 🎉
+2025-01-15 13:21:42,071 - INFO - Processed article microsoft-forms-engineering-group-boost-ai-tools - Microsoft forms new engineering group to boost AI tools
+2025-01-15 13:21:42,072 - INFO - Parsing article: None
+2025-01-15 13:21:42,072 - INFO -   - Extracting title...
+2025-01-15 13:21:42,072 - INFO -   - Title extracted: US tightens AI chip exports, targets China
+2025-01-15 13:21:42,072 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,072 - INFO -   - Article URL extracted: https://www.techinasia.com/news/tighten-ai-chip-exports-targets-china, ID: tighten-ai-chip-exports-targets-china
+2025-01-15 13:21:42,072 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,072 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:42,072 - INFO -   - Source URL extracted: https://www.reuters.com/technology/artificial-intelligence/us-tightens-its-grip-ai-chip-flows-across-globe-2025-01-13/ 🌐
+2025-01-15 13:21:42,072 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,073 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736823052_shutterstock_1855090540-750x500.jpg 🖼️
+2025-01-15 13:21:42,073 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,073 - INFO -   - Time extracted: 10:51 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:42,073 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:42,073 - INFO - Article parsing complete: tighten-ai-chip-exports-targets-china 🎉
+2025-01-15 13:21:42,073 - INFO - Processed article tighten-ai-chip-exports-targets-china - US tightens AI chip exports, targets China
+2025-01-15 13:21:42,073 - INFO - Parsing article: None
+2025-01-15 13:21:42,074 - INFO -   - Extracting title...
+2025-01-15 13:21:42,074 - INFO -   - Title extracted: Indonesian AI character generator nets $5m seed
+2025-01-15 13:21:42,074 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,074 - INFO -   - Article URL extracted: https://www.techinasia.com/news/indonesian-digital-character-generator-nets-seed, ID: indonesian-digital-character-generator-nets-seed
+2025-01-15 13:21:42,074 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,074 - INFO -   - Source extracted: Bythen ✅
+2025-01-15 13:21:42,074 - INFO -   - Source URL extracted: https://www.bythen.ai/ 🌐
+2025-01-15 13:21:42,074 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,074 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736755030_unnamed-15-750x500.jpg 🖼️
+2025-01-15 13:21:42,074 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,074 - INFO -   - Time extracted: 10:00 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:42,074 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:42,075 - INFO - Article parsing complete: indonesian-digital-character-generator-nets-seed 🎉
+2025-01-15 13:21:42,075 - INFO - Processed article indonesian-digital-character-generator-nets-seed - Indonesian AI character generator nets $5m seed
+2025-01-15 13:21:42,075 - INFO - Parsing article: None
+2025-01-15 13:21:42,075 - INFO -   - Extracting title...
+2025-01-15 13:21:42,075 - INFO -   - Title extracted: Google’s AI agent enhances voice assist in Mercedes CLA
+2025-01-15 13:21:42,075 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,075 - INFO -   - Article URL extracted: https://www.techinasia.com/news/googles-automotive-agent-enhances-voice-assist-mercedes-cla, ID: googles-automotive-agent-enhances-voice-assist-mercedes-cla
+2025-01-15 13:21:42,075 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,076 - INFO -   - Source extracted: Google ✅
+2025-01-15 13:21:42,076 - INFO -   - Source URL extracted: https://blog.google/feed/mercedes-google-cloud-automotive-ai-agent/ 🌐
+2025-01-15 13:21:42,076 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,076 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/09/1694664543_shutterstock_552493561-750x500.jpg 🖼️
+2025-01-15 13:21:42,076 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,076 - INFO -   - Time extracted: 9:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:42,076 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:42,076 - INFO - Article parsing complete: googles-automotive-agent-enhances-voice-assist-mercedes-cla 🎉
+2025-01-15 13:21:42,076 - INFO - Processed article googles-automotive-agent-enhances-voice-assist-mercedes-cla - Google’s AI agent enhances voice assist in Mercedes CLA
+2025-01-15 13:21:42,077 - INFO - Parsing article: None
+2025-01-15 13:21:42,077 - INFO -   - Extracting title...
+2025-01-15 13:21:42,077 - INFO -   - Title extracted: Adobe launches new AI tool for bulk image editing
+2025-01-15 13:21:42,077 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:42,077 - INFO -   - Article URL extracted: https://www.techinasia.com/news/adobe-launches-ai-tool-bulk-image-editing, ID: adobe-launches-ai-tool-bulk-image-editing
+2025-01-15 13:21:42,077 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:42,077 - INFO -   - Source extracted: The Verge ✅
+2025-01-15 13:21:42,077 - INFO -   - Source URL extracted: https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability 🌐
+2025-01-15 13:21:42,077 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:42,077 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1686709604_shutterstock_1793510983-750x500.jpg 🖼️
+2025-01-15 13:21:42,077 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:42,078 - INFO -   - Time extracted: 8:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:42,078 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:42,078 - INFO - Article parsing complete: adobe-launches-ai-tool-bulk-image-editing 🎉
+2025-01-15 13:21:42,078 - INFO - Processed article adobe-launches-ai-tool-bulk-image-editing - Adobe launches new AI tool for bulk image editing
+2025-01-15 13:21:43,750 - INFO - Scrolled 1 times, found 15 articles
+2025-01-15 13:21:44,007 - INFO - Parsing article: None
+2025-01-15 13:21:44,007 - INFO -   - Extracting title...
+2025-01-15 13:21:44,008 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:21:44,008 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,008 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:21:44,008 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,008 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:21:44,008 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:21:44,008 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,009 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/07/1722327888_menara-ytl-kl-750x422.png 🖼️
+2025-01-15 13:21:44,009 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,009 - INFO -   - Time extracted: 11:08 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:21:44,009 - INFO -   - Categories: ['AI', 'Fintech'], Tags: ['Malaysia']
+2025-01-15 13:21:44,010 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:21:44,010 - INFO - Parsing article: None
+2025-01-15 13:21:44,010 - INFO -   - Extracting title...
+2025-01-15 13:21:44,010 - INFO -   - Title extracted: Taiwanese startup MetAI raises $4m seed funding
+2025-01-15 13:21:44,010 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,010 - INFO -   - Article URL extracted: https://www.techinasia.com/news/taiwanese-startup-metai-raises-4m-seed-funding, ID: taiwanese-startup-metai-raises-4m-seed-funding
+2025-01-15 13:21:44,010 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,011 - INFO -   - Source extracted: MetAI ✅
+2025-01-15 13:21:44,011 - INFO -   - Source URL extracted: https://www.met-ai.net/ 🌐
+2025-01-15 13:21:44,011 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,011 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736894729_MetAI.png 🖼️
+2025-01-15 13:21:44,011 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,011 - INFO -   - Time extracted: 11:00 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:21:44,012 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:44,012 - INFO - Article parsing complete: taiwanese-startup-metai-raises-4m-seed-funding 🎉
+2025-01-15 13:21:44,012 - INFO - Parsing article: None
+2025-01-15 13:21:44,012 - INFO -   - Extracting title...
+2025-01-15 13:21:44,013 - INFO -   - Title extracted: Saudi firm Halo AI secures $6m for global expansion
+2025-01-15 13:21:44,013 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,013 - INFO -   - Article URL extracted: https://www.techinasia.com/news/saudi-firm-halo-ai-secures-6m-global-expansion, ID: saudi-firm-halo-ai-secures-6m-global-expansion
+2025-01-15 13:21:44,013 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,013 - INFO -   - Source extracted: Arab News ✅
+2025-01-15 13:21:44,013 - INFO -   - Source URL extracted: https://www.arabnews.com/node/2586359/business-economy 🌐
+2025-01-15 13:21:44,013 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,014 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736482663_shutterstock_2308739453-750x499.jpg 🖼️
+2025-01-15 13:21:44,014 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,014 - INFO -   - Time extracted: 10:05 AM at Jan 15, 2025 ⏰, Relative Time: 3h ago
+2025-01-15 13:21:44,014 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:44,015 - INFO - Article parsing complete: saudi-firm-halo-ai-secures-6m-global-expansion 🎉
+2025-01-15 13:21:44,015 - INFO - Parsing article: None
+2025-01-15 13:21:44,015 - INFO -   - Extracting title...
+2025-01-15 13:21:44,015 - INFO -   - Title extracted: Israeli cybersecurity startup raises $36m seed funding
+2025-01-15 13:21:44,015 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,016 - INFO -   - Article URL extracted: https://www.techinasia.com/news/israeli-cybersecurity-startup-raises-36m-seed-funding, ID: israeli-cybersecurity-startup-raises-36m-seed-funding
+2025-01-15 13:21:44,016 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,016 - INFO -   - Source extracted: Calcalist ✅
+2025-01-15 13:21:44,016 - INFO -   - Source URL extracted: https://www.calcalistech.com/ctechnews/article/bkot3kmwyl 🌐
+2025-01-15 13:21:44,016 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,016 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/12/1735011218_shutterstock_1956837997-750x553.jpg 🖼️
+2025-01-15 13:21:44,017 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,017 - INFO -   - Time extracted: 10:00 AM at Jan 15, 2025 ⏰, Relative Time: 3h ago
+2025-01-15 13:21:44,017 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:44,018 - INFO - Article parsing complete: israeli-cybersecurity-startup-raises-36m-seed-funding 🎉
+2025-01-15 13:21:44,018 - INFO - Parsing article: None
+2025-01-15 13:21:44,018 - INFO -   - Extracting title...
+2025-01-15 13:21:44,018 - INFO -   - Title extracted: Biden signs order for AI data centers, US-made chips
+2025-01-15 13:21:44,018 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,018 - INFO -   - Article URL extracted: https://www.techinasia.com/news/biden-signs-order-ai-data-centers-usmade-chips, ID: biden-signs-order-ai-data-centers-usmade-chips
+2025-01-15 13:21:44,018 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,019 - INFO -   - Source extracted: CNBC ✅
+2025-01-15 13:21:44,019 - INFO -   - Source URL extracted: https://www.cnbc.com/2025/01/14/biden-opens-federal-land-for-ai-data-centers-sets-developer-rules.html 🌐
+2025-01-15 13:21:44,019 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,019 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1687941555_shutterstock_2286344107-750x500.jpg 🖼️
+2025-01-15 13:21:44,019 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,019 - INFO -   - Time extracted: 9:00 AM at Jan 15, 2025 ⏰, Relative Time: 4h ago
+2025-01-15 13:21:44,020 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,020 - INFO - Article parsing complete: biden-signs-order-ai-data-centers-usmade-chips 🎉
+2025-01-15 13:21:44,020 - INFO - Parsing article: None
+2025-01-15 13:21:44,020 - INFO -   - Extracting title...
+2025-01-15 13:21:44,020 - INFO -   - Title extracted: AWS, General Catalyst advance AI tools to support healthcare
+2025-01-15 13:21:44,020 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,021 - INFO -   - Article URL extracted: https://www.techinasia.com/news/aws-general-catalyst-advance-ai-tools-support-healthcare, ID: aws-general-catalyst-advance-ai-tools-support-healthcare
+2025-01-15 13:21:44,021 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,021 - INFO -   - Source extracted: CNBC ✅
+2025-01-15 13:21:44,021 - INFO -   - Source URL extracted: https://www.cnbc.com/2025/01/13/health-care-ai-aws-and-general-catalyst-partner-to-speed-development.html 🌐
+2025-01-15 13:21:44,021 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,021 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736413903_shutterstock_1489195400-750x500.jpg 🖼️
+2025-01-15 13:21:44,021 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,022 - INFO -   - Time extracted: 6:05 PM at Jan 14, 2025 ⏰, Relative Time: 19h ago
+2025-01-15 13:21:44,022 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,022 - INFO - Article parsing complete: aws-general-catalyst-advance-ai-tools-support-healthcare 🎉
+2025-01-15 13:21:44,022 - INFO - Parsing article: None
+2025-01-15 13:21:44,022 - INFO -   - Extracting title...
+2025-01-15 13:21:44,022 - INFO -   - Title extracted: Trump likely to keep US AI chip export restrictions
+2025-01-15 13:21:44,022 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,023 - INFO -   - Article URL extracted: https://www.techinasia.com/news/trump-set-ai-chip-export-restrictions, ID: trump-set-ai-chip-export-restrictions
+2025-01-15 13:21:44,023 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,023 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:44,023 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-13/trump-likely-to-maintain-new-ai-chip-controls-top-biden-aide-jake-sullivan-says 🌐
+2025-01-15 13:21:44,023 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,023 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736341611_shutterstock_2434408241-750x502.jpg 🖼️
+2025-01-15 13:21:44,023 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,024 - INFO -   - Time extracted: 5:56 PM at Jan 14, 2025 ⏰, Relative Time: 19h ago
+2025-01-15 13:21:44,024 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:44,025 - INFO - Article parsing complete: trump-set-ai-chip-export-restrictions 🎉
+2025-01-15 13:21:44,025 - INFO - Parsing article: None
+2025-01-15 13:21:44,025 - INFO -   - Extracting title...
+2025-01-15 13:21:44,025 - INFO -   - Title extracted: OpenAI urges action to maintain US AI leadership
+2025-01-15 13:21:44,026 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,026 - INFO -   - Article URL extracted: https://www.techinasia.com/news/openai-urges-action-maintain-ai-leadership, ID: openai-urges-action-maintain-ai-leadership
+2025-01-15 13:21:44,026 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,026 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:44,026 - INFO -   - Source URL extracted: https://www.reuters.com/technology/artificial-intelligence/openai-urges-us-prioritize-ai-funding-regulation-stay-ahead-china-2025-01-13/ 🌐
+2025-01-15 13:21:44,026 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,026 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736148915_shutterstock_2511421515-750x494.jpg 🖼️
+2025-01-15 13:21:44,026 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,027 - INFO -   - Time extracted: 3:38 PM at Jan 14, 2025 ⏰, Relative Time: 21h ago
+2025-01-15 13:21:44,027 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:44,027 - INFO - Article parsing complete: openai-urges-action-maintain-ai-leadership 🎉
+2025-01-15 13:21:44,027 - INFO - Parsing article: None
+2025-01-15 13:21:44,027 - INFO -   - Extracting title...
+2025-01-15 13:21:44,027 - INFO -   - Title extracted: TSMC Q4 profit set to surge 58% on strong AI chip demand
+2025-01-15 13:21:44,028 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,028 - INFO -   - Article URL extracted: https://www.techinasia.com/news/tsmc-q4-profit-set-surge-58-strong-ai-chip-demand, ID: tsmc-q4-profit-set-surge-58-strong-ai-chip-demand
+2025-01-15 13:21:44,028 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,028 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:44,028 - INFO -   - Source URL extracted: https://www.reuters.com/technology/tsmc-fourth-quarter-profit-seen-jumping-58-strong-ai-chip-demand-2025-01-13/ 🌐
+2025-01-15 13:21:44,028 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,028 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736217646_shutterstock_2486598645-750x500.jpg 🖼️
+2025-01-15 13:21:44,028 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,028 - INFO -   - Time extracted: 3:15 PM at Jan 14, 2025 ⏰, Relative Time: 22h ago
+2025-01-15 13:21:44,029 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,029 - INFO - Article parsing complete: tsmc-q4-profit-set-surge-58-strong-ai-chip-demand 🎉
+2025-01-15 13:21:44,029 - INFO - Parsing article: None
+2025-01-15 13:21:44,029 - INFO -   - Extracting title...
+2025-01-15 13:21:44,029 - INFO -   - Title extracted: PUBG maker Krafton to invest $136m in game studios
+2025-01-15 13:21:44,029 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,029 - INFO -   - Article URL extracted: https://www.techinasia.com/news/pubg-maker-to-invest-136m-game-studios, ID: pubg-maker-to-invest-136m-game-studios
+2025-01-15 13:21:44,029 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,029 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:44,030 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-13/-pubg-developer-plans-a-spending-spree-in-search-of-more-hits?srnd=phx-technology 🌐
+2025-01-15 13:21:44,030 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,030 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2022/07/1659095975_nbazhjy7wm3ehegpohqa-750x422.jpeg 🖼️
+2025-01-15 13:21:44,030 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,030 - INFO -   - Time extracted: 1:02 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,030 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:44,030 - INFO - Article parsing complete: pubg-maker-to-invest-136m-game-studios 🎉
+2025-01-15 13:21:44,030 - INFO - Parsing article: None
+2025-01-15 13:21:44,031 - INFO -   - Extracting title...
+2025-01-15 13:21:44,031 - INFO -   - Title extracted: Microsoft forms new engineering group to boost AI tools
+2025-01-15 13:21:44,031 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,031 - INFO -   - Article URL extracted: https://www.techinasia.com/news/microsoft-forms-engineering-group-boost-ai-tools, ID: microsoft-forms-engineering-group-boost-ai-tools
+2025-01-15 13:21:44,031 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,031 - INFO -   - Source extracted: The Verge ✅
+2025-01-15 13:21:44,031 - INFO -   - Source URL extracted: https://www.theverge.com/2025/1/13/24342793/microsoft-ai-engineering-group-coreai-jay-parikh 🌐
+2025-01-15 13:21:44,031 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,031 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/01/1673334449_Microsoft-750x563.jpg 🖼️
+2025-01-15 13:21:44,031 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,032 - INFO -   - Time extracted: 12:26 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,032 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,032 - INFO - Article parsing complete: microsoft-forms-engineering-group-boost-ai-tools 🎉
+2025-01-15 13:21:44,032 - INFO - Parsing article: None
+2025-01-15 13:21:44,032 - INFO -   - Extracting title...
+2025-01-15 13:21:44,032 - INFO -   - Title extracted: US tightens AI chip exports, targets China
+2025-01-15 13:21:44,032 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,032 - INFO -   - Article URL extracted: https://www.techinasia.com/news/tighten-ai-chip-exports-targets-china, ID: tighten-ai-chip-exports-targets-china
+2025-01-15 13:21:44,032 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,033 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:44,033 - INFO -   - Source URL extracted: https://www.reuters.com/technology/artificial-intelligence/us-tightens-its-grip-ai-chip-flows-across-globe-2025-01-13/ 🌐
+2025-01-15 13:21:44,033 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,033 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736823052_shutterstock_1855090540-750x500.jpg 🖼️
+2025-01-15 13:21:44,033 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,033 - INFO -   - Time extracted: 10:51 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,033 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,033 - INFO - Article parsing complete: tighten-ai-chip-exports-targets-china 🎉
+2025-01-15 13:21:44,034 - INFO - Parsing article: None
+2025-01-15 13:21:44,034 - INFO -   - Extracting title...
+2025-01-15 13:21:44,034 - INFO -   - Title extracted: Indonesian AI character generator nets $5m seed
+2025-01-15 13:21:44,034 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,034 - INFO -   - Article URL extracted: https://www.techinasia.com/news/indonesian-digital-character-generator-nets-seed, ID: indonesian-digital-character-generator-nets-seed
+2025-01-15 13:21:44,034 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,034 - INFO -   - Source extracted: Bythen ✅
+2025-01-15 13:21:44,034 - INFO -   - Source URL extracted: https://www.bythen.ai/ 🌐
+2025-01-15 13:21:44,034 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,034 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736755030_unnamed-15-750x500.jpg 🖼️
+2025-01-15 13:21:44,034 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,035 - INFO -   - Time extracted: 10:00 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,035 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:44,035 - INFO - Article parsing complete: indonesian-digital-character-generator-nets-seed 🎉
+2025-01-15 13:21:44,035 - INFO - Parsing article: None
+2025-01-15 13:21:44,035 - INFO -   - Extracting title...
+2025-01-15 13:21:44,035 - INFO -   - Title extracted: Google’s AI agent enhances voice assist in Mercedes CLA
+2025-01-15 13:21:44,035 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,035 - INFO -   - Article URL extracted: https://www.techinasia.com/news/googles-automotive-agent-enhances-voice-assist-mercedes-cla, ID: googles-automotive-agent-enhances-voice-assist-mercedes-cla
+2025-01-15 13:21:44,035 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,035 - INFO -   - Source extracted: Google ✅
+2025-01-15 13:21:44,036 - INFO -   - Source URL extracted: https://blog.google/feed/mercedes-google-cloud-automotive-ai-agent/ 🌐
+2025-01-15 13:21:44,036 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,036 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/09/1694664543_shutterstock_552493561-750x500.jpg 🖼️
+2025-01-15 13:21:44,036 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,036 - INFO -   - Time extracted: 9:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,037 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,037 - INFO - Article parsing complete: googles-automotive-agent-enhances-voice-assist-mercedes-cla 🎉
+2025-01-15 13:21:44,037 - INFO - Parsing article: None
+2025-01-15 13:21:44,037 - INFO -   - Extracting title...
+2025-01-15 13:21:44,038 - INFO -   - Title extracted: Adobe launches new AI tool for bulk image editing
+2025-01-15 13:21:44,038 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,038 - INFO -   - Article URL extracted: https://www.techinasia.com/news/adobe-launches-ai-tool-bulk-image-editing, ID: adobe-launches-ai-tool-bulk-image-editing
+2025-01-15 13:21:44,038 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,038 - INFO -   - Source extracted: The Verge ✅
+2025-01-15 13:21:44,038 - INFO -   - Source URL extracted: https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability 🌐
+2025-01-15 13:21:44,038 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,039 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1686709604_shutterstock_1793510983-750x500.jpg 🖼️
+2025-01-15 13:21:44,039 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,039 - INFO -   - Time extracted: 8:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,039 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,040 - INFO - Article parsing complete: adobe-launches-ai-tool-bulk-image-editing 🎉
+2025-01-15 13:21:44,040 - INFO - Parsing article: None
+2025-01-15 13:21:44,040 - INFO -   - Extracting title...
+2025-01-15 13:21:44,040 - INFO -   - Title extracted: Chinese AI startup DeepSeek launches free iOS app
+2025-01-15 13:21:44,040 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,041 - INFO -   - Article URL extracted: https://www.techinasia.com/news/chinese-ai-startup-deepseek-launches-free-ios-app, ID: chinese-ai-startup-deepseek-launches-free-ios-app
+2025-01-15 13:21:44,041 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,041 - INFO -   - Source extracted: Pandaily ✅
+2025-01-15 13:21:44,041 - INFO -   - Source URL extracted: https://pandaily.com/ai-assistant-deepseek-official-app-launched/ 🌐
+2025-01-15 13:21:44,041 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,042 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736726769_shutterstock_2553453443-750x500.jpg 🖼️
+2025-01-15 13:21:44,042 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,042 - INFO -   - Time extracted: 8:15 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,042 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:44,043 - INFO - Article parsing complete: chinese-ai-startup-deepseek-launches-free-ios-app 🎉
+2025-01-15 13:21:44,043 - INFO - Processed article chinese-ai-startup-deepseek-launches-free-ios-app - Chinese AI startup DeepSeek launches free iOS app
+2025-01-15 13:21:44,044 - INFO - Parsing article: None
+2025-01-15 13:21:44,044 - INFO -   - Extracting title...
+2025-01-15 13:21:44,044 - INFO -   - Title extracted: South Korea boosts AI, semiconductor ties with Israel, Japan
+2025-01-15 13:21:44,044 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,044 - INFO -   - Article URL extracted: https://www.techinasia.com/news/south-korea-boosts-ai-semiconductor-ties-israel-japan, ID: south-korea-boosts-ai-semiconductor-ties-israel-japan
+2025-01-15 13:21:44,044 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,045 - INFO -   - Source extracted: Yonhap ✅
+2025-01-15 13:21:44,045 - INFO -   - Source URL extracted: https://en.yna.co.kr/view/AEN20250113000900320 🌐
+2025-01-15 13:21:44,045 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,045 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736311486_shutterstock_1567981987-750x500.jpg 🖼️
+2025-01-15 13:21:44,045 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,046 - INFO -   - Time extracted: 4:20 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,046 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,046 - INFO - Article parsing complete: south-korea-boosts-ai-semiconductor-ties-israel-japan 🎉
+2025-01-15 13:21:44,046 - INFO - Processed article south-korea-boosts-ai-semiconductor-ties-israel-japan - South Korea boosts AI, semiconductor ties with Israel, Japan
+2025-01-15 13:21:44,048 - INFO - Parsing article: None
+2025-01-15 13:21:44,048 - INFO -   - Extracting title...
+2025-01-15 13:21:44,049 - INFO -   - Title extracted: SK Telecom launches GPUaaS for South Korea’s AI data center
+2025-01-15 13:21:44,049 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,049 - INFO -   - Article URL extracted: https://www.techinasia.com/news/sk-telecom-launches-gpuaas-south-koreas-ai-data-center, ID: sk-telecom-launches-gpuaas-south-koreas-ai-data-center
+2025-01-15 13:21:44,049 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,049 - INFO -   - Source extracted: SK Telecom ✅
+2025-01-15 13:21:44,050 - INFO -   - Source URL extracted: http://www.linkedin.com/company/sk-telecom 🌐
+2025-01-15 13:21:44,050 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,050 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736749507_Image-2-SK-Telecom-Launches-AI-Data-Center-based-GPUaaS-750x505.jpg 🖼️
+2025-01-15 13:21:44,050 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,050 - INFO -   - Time extracted: 3:09 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,051 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,051 - INFO - Article parsing complete: sk-telecom-launches-gpuaas-south-koreas-ai-data-center 🎉
+2025-01-15 13:21:44,051 - INFO - Processed article sk-telecom-launches-gpuaas-south-koreas-ai-data-center - SK Telecom launches GPUaaS for South Korea’s AI data center
+2025-01-15 13:21:44,052 - INFO - Parsing article: None
+2025-01-15 13:21:44,052 - INFO -   - Extracting title...
+2025-01-15 13:21:44,052 - INFO -   - Title extracted: YouTubers sell unused video footage to AI firms
+2025-01-15 13:21:44,052 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,052 - INFO -   - Article URL extracted: https://www.techinasia.com/news/youtubers-sell-unused-video-footage-ai-firms, ID: youtubers-sell-unused-video-footage-ai-firms
+2025-01-15 13:21:44,052 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,053 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:44,053 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-10/youtubers-are-selling-their-unused-video-footage-to-ai-companies?srnd=phx-technology 🌐
+2025-01-15 13:21:44,053 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,053 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2019/08/Youtube-Inc-Youtube-Youtube-Logo-3873587-750x500.jpg 🖼️
+2025-01-15 13:21:44,054 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,054 - INFO -   - Time extracted: 2:54 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:44,054 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,054 - INFO - Article parsing complete: youtubers-sell-unused-video-footage-ai-firms 🎉
+2025-01-15 13:21:44,054 - INFO - Processed article youtubers-sell-unused-video-footage-ai-firms - YouTubers sell unused video footage to AI firms
+2025-01-15 13:21:44,055 - INFO - Parsing article: None
+2025-01-15 13:21:44,055 - INFO -   - Extracting title...
+2025-01-15 13:21:44,056 - INFO -   - Title extracted: Singtel launches Perplexity Pro AI with free year access
+2025-01-15 13:21:44,056 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,056 - INFO -   - Article URL extracted: https://www.techinasia.com/news/singtel-launches-perplexity-pro-ai-free-year-access, ID: singtel-launches-perplexity-pro-ai-free-year-access
+2025-01-15 13:21:44,056 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,057 - INFO -   - Source extracted: Singtel ✅
+2025-01-15 13:21:44,057 - INFO -   - Source URL extracted: https://www.singtel.com/personal/my-account/rewards-perplexity 🌐
+2025-01-15 13:21:44,057 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,057 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736492586_shutterstock_2486442525-750x500.jpg 🖼️
+2025-01-15 13:21:44,057 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,058 - INFO -   - Time extracted: 11:57 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:44,058 - INFO -   - Categories: ['AI'], Tags: ['Singapore']
+2025-01-15 13:21:44,058 - INFO - Article parsing complete: singtel-launches-perplexity-pro-ai-free-year-access 🎉
+2025-01-15 13:21:44,058 - INFO - Processed article singtel-launches-perplexity-pro-ai-free-year-access - Singtel launches Perplexity Pro AI with free year access
+2025-01-15 13:21:44,059 - INFO - Parsing article: None
+2025-01-15 13:21:44,059 - INFO -   - Extracting title...
+2025-01-15 13:21:44,060 - INFO -   - Title extracted: China’s DeepSeek relies on young team to challenge US giants
+2025-01-15 13:21:44,060 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,060 - INFO -   - Article URL extracted: https://www.techinasia.com/news/chinas-deepseek-relies-young-team-challenge-giants, ID: chinas-deepseek-relies-young-team-challenge-giants
+2025-01-15 13:21:44,060 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,060 - INFO -   - Source extracted: South China Morning Post ✅
+2025-01-15 13:21:44,060 - INFO -   - Source URL extracted: https://www.scmp.com/tech/big-tech/article/3294357/chinas-ai-disrupter-deepseek-bets-low-key-team-young-geniuses-beat-us-giants 🌐
+2025-01-15 13:21:44,060 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,060 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736726769_shutterstock_2553453443-750x500.jpg 🖼️
+2025-01-15 13:21:44,061 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,061 - INFO -   - Time extracted: 9:30 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:44,061 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:44,062 - INFO - Article parsing complete: chinas-deepseek-relies-young-team-challenge-giants 🎉
+2025-01-15 13:21:44,062 - INFO - Processed article chinas-deepseek-relies-young-team-challenge-giants - China’s DeepSeek relies on young team to challenge US giants
+2025-01-15 13:21:44,062 - INFO - Parsing article: None
+2025-01-15 13:21:44,062 - INFO -   - Extracting title...
+2025-01-15 13:21:44,062 - INFO -   - Title extracted: Chinese firms showcase AI robots, EVs at CES 2025
+2025-01-15 13:21:44,063 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,063 - INFO -   - Article URL extracted: https://www.techinasia.com/news/chinese-firms-showcase-ai-robots-evs-ces-2025, ID: chinese-firms-showcase-ai-robots-evs-ces-2025
+2025-01-15 13:21:44,063 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,063 - INFO -   - Source extracted: South China Morning Post ✅
+2025-01-15 13:21:44,063 - INFO -   - Source URL extracted: https://www.scmp.com/tech/big-tech/article/3294433/ces-2025-chinese-firms-show-leading-ai-powered-robots-evs-smart-glasses 🌐
+2025-01-15 13:21:44,063 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,064 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736725757_shutterstock_2411904329-750x500.jpg 🖼️
+2025-01-15 13:21:44,064 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,065 - INFO -   - Time extracted: 8:45 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:44,065 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:44,065 - INFO - Article parsing complete: chinese-firms-showcase-ai-robots-evs-ces-2025 🎉
+2025-01-15 13:21:44,087 - INFO - Processed article chinese-firms-showcase-ai-robots-evs-ces-2025 - Chinese firms showcase AI robots, EVs at CES 2025
+2025-01-15 13:21:44,088 - INFO - Parsing article: None
+2025-01-15 13:21:44,088 - INFO -   - Extracting title...
+2025-01-15 13:21:44,088 - INFO -   - Title extracted: Alibaba Cloud launches AI tool for faster app development
+2025-01-15 13:21:44,088 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,088 - INFO -   - Article URL extracted: https://www.techinasia.com/news/alibaba-cloud-launches-ai-tool-faster-app-development, ID: alibaba-cloud-launches-ai-tool-faster-app-development
+2025-01-15 13:21:44,088 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,089 - INFO -   - Source extracted: South China Morning Post ✅
+2025-01-15 13:21:44,089 - INFO -   - Source URL extracted: https://www.scmp.com/tech/big-tech/article/3294096/meet-alibabas-ai-coder-automated-system-can-build-app-minutes 🌐
+2025-01-15 13:21:44,089 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,089 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/10/1727861494_shutterstock_2118466577-750x500.jpg 🖼️
+2025-01-15 13:21:44,089 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,090 - INFO -   - Time extracted: 3:18 PM at Jan 12, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:44,090 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:44,090 - INFO - Article parsing complete: alibaba-cloud-launches-ai-tool-faster-app-development 🎉
+2025-01-15 13:21:44,090 - INFO - Processed article alibaba-cloud-launches-ai-tool-faster-app-development - Alibaba Cloud launches AI tool for faster app development
+2025-01-15 13:21:44,091 - INFO - Parsing article: None
+2025-01-15 13:21:44,091 - INFO -   - Extracting title...
+2025-01-15 13:21:44,091 - INFO -   - Title extracted: Hyundai partners with Nvidia to advance AI in mobility
+2025-01-15 13:21:44,091 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,091 - INFO -   - Article URL extracted: https://www.techinasia.com/news/hyundai-partners-nvidia-advance-ai-mobility, ID: hyundai-partners-nvidia-advance-ai-mobility
+2025-01-15 13:21:44,092 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,092 - INFO -   - Source extracted: The Korea Times ✅
+2025-01-15 13:21:44,092 - INFO -   - Source URL extracted: https://www.koreatimes.co.kr/www/tech/2025/01/419_390130.html 🌐
+2025-01-15 13:21:44,093 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,093 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1735903833_shutterstock_2493117133-750x563.jpg 🖼️
+2025-01-15 13:21:44,093 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,093 - INFO -   - Time extracted: 2:42 PM at Jan 12, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:44,094 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,094 - INFO - Article parsing complete: hyundai-partners-nvidia-advance-ai-mobility 🎉
+2025-01-15 13:21:44,094 - INFO - Processed article hyundai-partners-nvidia-advance-ai-mobility - Hyundai partners with Nvidia to advance AI in mobility
+2025-01-15 13:21:44,094 - INFO - Parsing article: None
+2025-01-15 13:21:44,095 - INFO -   - Extracting title...
+2025-01-15 13:21:44,095 - INFO -   - Title extracted: Ant Group to connect 280k doctors on Haodf healthcare platform
+2025-01-15 13:21:44,095 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,095 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ant-group-connect-280k-doctors-haodf-healthcare-platform, ID: ant-group-connect-280k-doctors-haodf-healthcare-platform
+2025-01-15 13:21:44,095 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,095 - INFO -   - Source extracted: Ant Group ✅
+2025-01-15 13:21:44,095 - INFO -   - Source URL extracted: https://www.antgroup.com/en/ 🌐
+2025-01-15 13:21:44,095 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,096 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736594361_Cyril-Han-President-of-Ant-Group-speaks-at-the-2025-Haodf-Conference-in-Shanghai-750x500.jpg 🖼️
+2025-01-15 13:21:44,096 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,096 - INFO -   - Time extracted: 8:37 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:44,096 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:44,097 - INFO - Article parsing complete: ant-group-connect-280k-doctors-haodf-healthcare-platform 🎉
+2025-01-15 13:21:44,097 - INFO - Processed article ant-group-connect-280k-doctors-haodf-healthcare-platform - Ant Group to connect 280k doctors on Haodf healthcare platform
+2025-01-15 13:21:44,097 - INFO - Parsing article: None
+2025-01-15 13:21:44,097 - INFO -   - Extracting title...
+2025-01-15 13:21:44,098 - INFO -   - Title extracted: OpenAI, Meta, Uber execs set to attend Trump’s inauguration
+2025-01-15 13:21:44,098 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,098 - INFO -   - Article URL extracted: https://www.techinasia.com/news/openai-meta-uber-execs-attend-trumps-inauguration, ID: openai-meta-uber-execs-attend-trumps-inauguration
+2025-01-15 13:21:44,098 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,098 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:44,098 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-10/openai-meta-uber-ceos-plan-to-attend-trump-inauguration-events?srnd=phx-technology 🌐
+2025-01-15 13:21:44,098 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,099 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/12/1735005233_shutterstock_2551951845-750x500.jpg 🖼️
+2025-01-15 13:21:44,099 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,099 - INFO -   - Time extracted: 5:02 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:44,099 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,100 - INFO - Article parsing complete: openai-meta-uber-execs-attend-trumps-inauguration 🎉
+2025-01-15 13:21:44,100 - INFO - Processed article openai-meta-uber-execs-attend-trumps-inauguration - OpenAI, Meta, Uber execs set to attend Trump’s inauguration
+2025-01-15 13:21:44,100 - INFO - Parsing article: None
+2025-01-15 13:21:44,100 - INFO -   - Extracting title...
+2025-01-15 13:21:44,100 - INFO -   - Title extracted: OpenAI considers high-volume production of humanoid robots
+2025-01-15 13:21:44,101 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,101 - INFO -   - Article URL extracted: https://www.techinasia.com/news/openai-considers-highvolume-production-humanoid-robots, ID: openai-considers-highvolume-production-humanoid-robots
+2025-01-15 13:21:44,101 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,101 - INFO -   - Source extracted: TechCrunch ✅
+2025-01-15 13:21:44,101 - INFO -   - Source URL extracted: https://techcrunch.com/2025/01/10/new-openai-job-listings-reveal-its-robotics-plans/ 🌐
+2025-01-15 13:21:44,101 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,102 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/01/1706688900_shutterstock_2275173419-750x500.jpg 🖼️
+2025-01-15 13:21:44,102 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,102 - INFO -   - Time extracted: 4:56 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:44,102 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,103 - INFO - Article parsing complete: openai-considers-highvolume-production-humanoid-robots 🎉
+2025-01-15 13:21:44,103 - INFO - Processed article openai-considers-highvolume-production-humanoid-robots - OpenAI considers high-volume production of humanoid robots
+2025-01-15 13:21:44,103 - INFO - Parsing article: None
+2025-01-15 13:21:44,104 - INFO -   - Extracting title...
+2025-01-15 13:21:44,104 - INFO -   - Title extracted: US agencies partially back Musk’s legal challenge against OpenAI
+2025-01-15 13:21:44,104 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,105 - INFO -   - Article URL extracted: https://www.techinasia.com/news/us-agencies-partially-back-musks-legal-challenge-openai, ID: us-agencies-partially-back-musks-legal-challenge-openai
+2025-01-15 13:21:44,105 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,105 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:44,105 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-10/us-supports-musk-challenge-to-openai-microsoft-board-overlaps?srnd=phx-technology 🌐
+2025-01-15 13:21:44,106 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,106 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:21:44,106 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,106 - INFO -   - Time extracted: 4:52 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:44,107 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,107 - INFO - Article parsing complete: us-agencies-partially-back-musks-legal-challenge-openai 🎉
+2025-01-15 13:21:44,108 - INFO - Processed article us-agencies-partially-back-musks-legal-challenge-openai - US agencies partially back Musk’s legal challenge against OpenAI
+2025-01-15 13:21:44,108 - INFO - Parsing article: None
+2025-01-15 13:21:44,108 - INFO -   - Extracting title...
+2025-01-15 13:21:44,108 - INFO -   - Title extracted: Microsoft sues group over Azure OpenAI service
+2025-01-15 13:21:44,108 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,108 - INFO -   - Article URL extracted: https://www.techinasia.com/news/microsoft-sues-group-azure-openai-service, ID: microsoft-sues-group-azure-openai-service
+2025-01-15 13:21:44,109 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,109 - INFO -   - Source extracted: TechCrunch ✅
+2025-01-15 13:21:44,109 - INFO -   - Source URL extracted: https://techcrunch.com/2025/01/10/microsoft-accuses-group-of-developing-tool-to-abuse-its-ai-service-in-new-lawsuit/ 🌐
+2025-01-15 13:21:44,109 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,109 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:21:44,109 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,110 - INFO -   - Time extracted: 3:26 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:44,110 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,110 - INFO - Article parsing complete: microsoft-sues-group-azure-openai-service 🎉
+2025-01-15 13:21:44,110 - INFO - Processed article microsoft-sues-group-azure-openai-service - Microsoft sues group over Azure OpenAI service
+2025-01-15 13:21:44,111 - INFO - Parsing article: None
+2025-01-15 13:21:44,111 - INFO -   - Extracting title...
+2025-01-15 13:21:44,111 - INFO -   - Title extracted: Nvidia raises concerns over Biden’s reported export restrictions
+2025-01-15 13:21:44,111 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:44,112 - INFO -   - Article URL extracted: https://www.techinasia.com/news/nvidia-raises-concerns-bidens-reported-export-restrictions, ID: nvidia-raises-concerns-bidens-reported-export-restrictions
+2025-01-15 13:21:44,112 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:44,112 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:44,112 - INFO -   - Source URL extracted: https://www.reuters.com/technology/nvidia-criticizes-reported-biden-plan-ai-chip-export-curbs-2025-01-10/ 🌐
+2025-01-15 13:21:44,112 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:44,112 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:21:44,113 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:44,113 - INFO -   - Time extracted: 1:24 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:44,113 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:44,113 - INFO - Article parsing complete: nvidia-raises-concerns-bidens-reported-export-restrictions 🎉
+2025-01-15 13:21:44,114 - INFO - Processed article nvidia-raises-concerns-bidens-reported-export-restrictions - Nvidia raises concerns over Biden’s reported export restrictions
+2025-01-15 13:21:46,139 - INFO - Scrolled 2 times, found 30 articles
+2025-01-15 13:21:46,259 - INFO - Parsing article: None
+2025-01-15 13:21:46,259 - INFO -   - Extracting title...
+2025-01-15 13:21:46,259 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:21:46,259 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,259 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:21:46,259 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,259 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:21:46,259 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:21:46,259 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,259 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/07/1722327888_menara-ytl-kl-750x422.png 🖼️
+2025-01-15 13:21:46,260 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,260 - INFO -   - Time extracted: 11:08 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:21:46,260 - INFO -   - Categories: ['AI', 'Fintech'], Tags: ['Malaysia']
+2025-01-15 13:21:46,260 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:21:46,260 - INFO - Parsing article: None
+2025-01-15 13:21:46,260 - INFO -   - Extracting title...
+2025-01-15 13:21:46,260 - INFO -   - Title extracted: Taiwanese startup MetAI raises $4m seed funding
+2025-01-15 13:21:46,260 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,260 - INFO -   - Article URL extracted: https://www.techinasia.com/news/taiwanese-startup-metai-raises-4m-seed-funding, ID: taiwanese-startup-metai-raises-4m-seed-funding
+2025-01-15 13:21:46,260 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,260 - INFO -   - Source extracted: MetAI ✅
+2025-01-15 13:21:46,260 - INFO -   - Source URL extracted: https://www.met-ai.net/ 🌐
+2025-01-15 13:21:46,261 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,261 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736894729_MetAI.png 🖼️
+2025-01-15 13:21:46,261 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,261 - INFO -   - Time extracted: 11:00 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:21:46,261 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:46,261 - INFO - Article parsing complete: taiwanese-startup-metai-raises-4m-seed-funding 🎉
+2025-01-15 13:21:46,261 - INFO - Parsing article: None
+2025-01-15 13:21:46,261 - INFO -   - Extracting title...
+2025-01-15 13:21:46,261 - INFO -   - Title extracted: Saudi firm Halo AI secures $6m for global expansion
+2025-01-15 13:21:46,261 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,261 - INFO -   - Article URL extracted: https://www.techinasia.com/news/saudi-firm-halo-ai-secures-6m-global-expansion, ID: saudi-firm-halo-ai-secures-6m-global-expansion
+2025-01-15 13:21:46,261 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,261 - INFO -   - Source extracted: Arab News ✅
+2025-01-15 13:21:46,261 - INFO -   - Source URL extracted: https://www.arabnews.com/node/2586359/business-economy 🌐
+2025-01-15 13:21:46,262 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,262 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736482663_shutterstock_2308739453-750x499.jpg 🖼️
+2025-01-15 13:21:46,262 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,262 - INFO -   - Time extracted: 10:05 AM at Jan 15, 2025 ⏰, Relative Time: 3h ago
+2025-01-15 13:21:46,262 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:46,262 - INFO - Article parsing complete: saudi-firm-halo-ai-secures-6m-global-expansion 🎉
+2025-01-15 13:21:46,262 - INFO - Parsing article: None
+2025-01-15 13:21:46,262 - INFO -   - Extracting title...
+2025-01-15 13:21:46,262 - INFO -   - Title extracted: Israeli cybersecurity startup raises $36m seed funding
+2025-01-15 13:21:46,262 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,262 - INFO -   - Article URL extracted: https://www.techinasia.com/news/israeli-cybersecurity-startup-raises-36m-seed-funding, ID: israeli-cybersecurity-startup-raises-36m-seed-funding
+2025-01-15 13:21:46,262 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,262 - INFO -   - Source extracted: Calcalist ✅
+2025-01-15 13:21:46,262 - INFO -   - Source URL extracted: https://www.calcalistech.com/ctechnews/article/bkot3kmwyl 🌐
+2025-01-15 13:21:46,263 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,263 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/12/1735011218_shutterstock_1956837997-750x553.jpg 🖼️
+2025-01-15 13:21:46,263 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,263 - INFO -   - Time extracted: 10:00 AM at Jan 15, 2025 ⏰, Relative Time: 3h ago
+2025-01-15 13:21:46,263 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:46,263 - INFO - Article parsing complete: israeli-cybersecurity-startup-raises-36m-seed-funding 🎉
+2025-01-15 13:21:46,263 - INFO - Parsing article: None
+2025-01-15 13:21:46,263 - INFO -   - Extracting title...
+2025-01-15 13:21:46,263 - INFO -   - Title extracted: Biden signs order for AI data centers, US-made chips
+2025-01-15 13:21:46,263 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,263 - INFO -   - Article URL extracted: https://www.techinasia.com/news/biden-signs-order-ai-data-centers-usmade-chips, ID: biden-signs-order-ai-data-centers-usmade-chips
+2025-01-15 13:21:46,263 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,263 - INFO -   - Source extracted: CNBC ✅
+2025-01-15 13:21:46,263 - INFO -   - Source URL extracted: https://www.cnbc.com/2025/01/14/biden-opens-federal-land-for-ai-data-centers-sets-developer-rules.html 🌐
+2025-01-15 13:21:46,264 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,264 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1687941555_shutterstock_2286344107-750x500.jpg 🖼️
+2025-01-15 13:21:46,264 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,264 - INFO -   - Time extracted: 9:00 AM at Jan 15, 2025 ⏰, Relative Time: 4h ago
+2025-01-15 13:21:46,264 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,264 - INFO - Article parsing complete: biden-signs-order-ai-data-centers-usmade-chips 🎉
+2025-01-15 13:21:46,264 - INFO - Parsing article: None
+2025-01-15 13:21:46,264 - INFO -   - Extracting title...
+2025-01-15 13:21:46,264 - INFO -   - Title extracted: AWS, General Catalyst advance AI tools to support healthcare
+2025-01-15 13:21:46,265 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,265 - INFO -   - Article URL extracted: https://www.techinasia.com/news/aws-general-catalyst-advance-ai-tools-support-healthcare, ID: aws-general-catalyst-advance-ai-tools-support-healthcare
+2025-01-15 13:21:46,265 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,265 - INFO -   - Source extracted: CNBC ✅
+2025-01-15 13:21:46,265 - INFO -   - Source URL extracted: https://www.cnbc.com/2025/01/13/health-care-ai-aws-and-general-catalyst-partner-to-speed-development.html 🌐
+2025-01-15 13:21:46,265 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,265 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736413903_shutterstock_1489195400-750x500.jpg 🖼️
+2025-01-15 13:21:46,265 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,265 - INFO -   - Time extracted: 6:05 PM at Jan 14, 2025 ⏰, Relative Time: 19h ago
+2025-01-15 13:21:46,266 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,266 - INFO - Article parsing complete: aws-general-catalyst-advance-ai-tools-support-healthcare 🎉
+2025-01-15 13:21:46,266 - INFO - Parsing article: None
+2025-01-15 13:21:46,266 - INFO -   - Extracting title...
+2025-01-15 13:21:46,266 - INFO -   - Title extracted: Trump likely to keep US AI chip export restrictions
+2025-01-15 13:21:46,266 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,266 - INFO -   - Article URL extracted: https://www.techinasia.com/news/trump-set-ai-chip-export-restrictions, ID: trump-set-ai-chip-export-restrictions
+2025-01-15 13:21:46,266 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,266 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:46,266 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-13/trump-likely-to-maintain-new-ai-chip-controls-top-biden-aide-jake-sullivan-says 🌐
+2025-01-15 13:21:46,266 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,266 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736341611_shutterstock_2434408241-750x502.jpg 🖼️
+2025-01-15 13:21:46,267 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,267 - INFO -   - Time extracted: 5:56 PM at Jan 14, 2025 ⏰, Relative Time: 19h ago
+2025-01-15 13:21:46,267 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:46,267 - INFO - Article parsing complete: trump-set-ai-chip-export-restrictions 🎉
+2025-01-15 13:21:46,267 - INFO - Parsing article: None
+2025-01-15 13:21:46,267 - INFO -   - Extracting title...
+2025-01-15 13:21:46,267 - INFO -   - Title extracted: OpenAI urges action to maintain US AI leadership
+2025-01-15 13:21:46,268 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,268 - INFO -   - Article URL extracted: https://www.techinasia.com/news/openai-urges-action-maintain-ai-leadership, ID: openai-urges-action-maintain-ai-leadership
+2025-01-15 13:21:46,268 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,268 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:46,268 - INFO -   - Source URL extracted: https://www.reuters.com/technology/artificial-intelligence/openai-urges-us-prioritize-ai-funding-regulation-stay-ahead-china-2025-01-13/ 🌐
+2025-01-15 13:21:46,268 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,268 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736148915_shutterstock_2511421515-750x494.jpg 🖼️
+2025-01-15 13:21:46,268 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,268 - INFO -   - Time extracted: 3:38 PM at Jan 14, 2025 ⏰, Relative Time: 21h ago
+2025-01-15 13:21:46,268 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:46,269 - INFO - Article parsing complete: openai-urges-action-maintain-ai-leadership 🎉
+2025-01-15 13:21:46,269 - INFO - Parsing article: None
+2025-01-15 13:21:46,269 - INFO -   - Extracting title...
+2025-01-15 13:21:46,269 - INFO -   - Title extracted: TSMC Q4 profit set to surge 58% on strong AI chip demand
+2025-01-15 13:21:46,269 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,269 - INFO -   - Article URL extracted: https://www.techinasia.com/news/tsmc-q4-profit-set-surge-58-strong-ai-chip-demand, ID: tsmc-q4-profit-set-surge-58-strong-ai-chip-demand
+2025-01-15 13:21:46,269 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,269 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:46,270 - INFO -   - Source URL extracted: https://www.reuters.com/technology/tsmc-fourth-quarter-profit-seen-jumping-58-strong-ai-chip-demand-2025-01-13/ 🌐
+2025-01-15 13:21:46,270 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,270 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736217646_shutterstock_2486598645-750x500.jpg 🖼️
+2025-01-15 13:21:46,270 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,270 - INFO -   - Time extracted: 3:15 PM at Jan 14, 2025 ⏰, Relative Time: 22h ago
+2025-01-15 13:21:46,270 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,270 - INFO - Article parsing complete: tsmc-q4-profit-set-surge-58-strong-ai-chip-demand 🎉
+2025-01-15 13:21:46,271 - INFO - Parsing article: None
+2025-01-15 13:21:46,271 - INFO -   - Extracting title...
+2025-01-15 13:21:46,271 - INFO -   - Title extracted: PUBG maker Krafton to invest $136m in game studios
+2025-01-15 13:21:46,271 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,271 - INFO -   - Article URL extracted: https://www.techinasia.com/news/pubg-maker-to-invest-136m-game-studios, ID: pubg-maker-to-invest-136m-game-studios
+2025-01-15 13:21:46,271 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,271 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:46,272 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-13/-pubg-developer-plans-a-spending-spree-in-search-of-more-hits?srnd=phx-technology 🌐
+2025-01-15 13:21:46,272 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,272 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2022/07/1659095975_nbazhjy7wm3ehegpohqa-750x422.jpeg 🖼️
+2025-01-15 13:21:46,272 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,272 - INFO -   - Time extracted: 1:02 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,272 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:46,272 - INFO - Article parsing complete: pubg-maker-to-invest-136m-game-studios 🎉
+2025-01-15 13:21:46,272 - INFO - Parsing article: None
+2025-01-15 13:21:46,272 - INFO -   - Extracting title...
+2025-01-15 13:21:46,272 - INFO -   - Title extracted: Microsoft forms new engineering group to boost AI tools
+2025-01-15 13:21:46,272 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,273 - INFO -   - Article URL extracted: https://www.techinasia.com/news/microsoft-forms-engineering-group-boost-ai-tools, ID: microsoft-forms-engineering-group-boost-ai-tools
+2025-01-15 13:21:46,273 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,273 - INFO -   - Source extracted: The Verge ✅
+2025-01-15 13:21:46,273 - INFO -   - Source URL extracted: https://www.theverge.com/2025/1/13/24342793/microsoft-ai-engineering-group-coreai-jay-parikh 🌐
+2025-01-15 13:21:46,273 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,273 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/01/1673334449_Microsoft-750x563.jpg 🖼️
+2025-01-15 13:21:46,273 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,273 - INFO -   - Time extracted: 12:26 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,273 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,273 - INFO - Article parsing complete: microsoft-forms-engineering-group-boost-ai-tools 🎉
+2025-01-15 13:21:46,273 - INFO - Parsing article: None
+2025-01-15 13:21:46,273 - INFO -   - Extracting title...
+2025-01-15 13:21:46,274 - INFO -   - Title extracted: US tightens AI chip exports, targets China
+2025-01-15 13:21:46,274 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,274 - INFO -   - Article URL extracted: https://www.techinasia.com/news/tighten-ai-chip-exports-targets-china, ID: tighten-ai-chip-exports-targets-china
+2025-01-15 13:21:46,274 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,274 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:46,274 - INFO -   - Source URL extracted: https://www.reuters.com/technology/artificial-intelligence/us-tightens-its-grip-ai-chip-flows-across-globe-2025-01-13/ 🌐
+2025-01-15 13:21:46,274 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,274 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736823052_shutterstock_1855090540-750x500.jpg 🖼️
+2025-01-15 13:21:46,274 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,274 - INFO -   - Time extracted: 10:51 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,275 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,275 - INFO - Article parsing complete: tighten-ai-chip-exports-targets-china 🎉
+2025-01-15 13:21:46,275 - INFO - Parsing article: None
+2025-01-15 13:21:46,275 - INFO -   - Extracting title...
+2025-01-15 13:21:46,275 - INFO -   - Title extracted: Indonesian AI character generator nets $5m seed
+2025-01-15 13:21:46,275 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,275 - INFO -   - Article URL extracted: https://www.techinasia.com/news/indonesian-digital-character-generator-nets-seed, ID: indonesian-digital-character-generator-nets-seed
+2025-01-15 13:21:46,276 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,276 - INFO -   - Source extracted: Bythen ✅
+2025-01-15 13:21:46,276 - INFO -   - Source URL extracted: https://www.bythen.ai/ 🌐
+2025-01-15 13:21:46,276 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,276 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736755030_unnamed-15-750x500.jpg 🖼️
+2025-01-15 13:21:46,276 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,276 - INFO -   - Time extracted: 10:00 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,277 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:21:46,277 - INFO - Article parsing complete: indonesian-digital-character-generator-nets-seed 🎉
+2025-01-15 13:21:46,277 - INFO - Parsing article: None
+2025-01-15 13:21:46,277 - INFO -   - Extracting title...
+2025-01-15 13:21:46,277 - INFO -   - Title extracted: Google’s AI agent enhances voice assist in Mercedes CLA
+2025-01-15 13:21:46,277 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,277 - INFO -   - Article URL extracted: https://www.techinasia.com/news/googles-automotive-agent-enhances-voice-assist-mercedes-cla, ID: googles-automotive-agent-enhances-voice-assist-mercedes-cla
+2025-01-15 13:21:46,277 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,277 - INFO -   - Source extracted: Google ✅
+2025-01-15 13:21:46,278 - INFO -   - Source URL extracted: https://blog.google/feed/mercedes-google-cloud-automotive-ai-agent/ 🌐
+2025-01-15 13:21:46,278 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,278 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/09/1694664543_shutterstock_552493561-750x500.jpg 🖼️
+2025-01-15 13:21:46,278 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,278 - INFO -   - Time extracted: 9:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,278 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,278 - INFO - Article parsing complete: googles-automotive-agent-enhances-voice-assist-mercedes-cla 🎉
+2025-01-15 13:21:46,278 - INFO - Parsing article: None
+2025-01-15 13:21:46,278 - INFO -   - Extracting title...
+2025-01-15 13:21:46,278 - INFO -   - Title extracted: Adobe launches new AI tool for bulk image editing
+2025-01-15 13:21:46,278 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,279 - INFO -   - Article URL extracted: https://www.techinasia.com/news/adobe-launches-ai-tool-bulk-image-editing, ID: adobe-launches-ai-tool-bulk-image-editing
+2025-01-15 13:21:46,279 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,279 - INFO -   - Source extracted: The Verge ✅
+2025-01-15 13:21:46,279 - INFO -   - Source URL extracted: https://www.theverge.com/2025/1/13/24342622/adobe-firefly-bulk-create-api-announcement-availability 🌐
+2025-01-15 13:21:46,279 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,279 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1686709604_shutterstock_1793510983-750x500.jpg 🖼️
+2025-01-15 13:21:46,279 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,279 - INFO -   - Time extracted: 8:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,280 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,280 - INFO - Article parsing complete: adobe-launches-ai-tool-bulk-image-editing 🎉
+2025-01-15 13:21:46,280 - INFO - Parsing article: None
+2025-01-15 13:21:46,280 - INFO -   - Extracting title...
+2025-01-15 13:21:46,280 - INFO -   - Title extracted: Chinese AI startup DeepSeek launches free iOS app
+2025-01-15 13:21:46,280 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,281 - INFO -   - Article URL extracted: https://www.techinasia.com/news/chinese-ai-startup-deepseek-launches-free-ios-app, ID: chinese-ai-startup-deepseek-launches-free-ios-app
+2025-01-15 13:21:46,281 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,281 - INFO -   - Source extracted: Pandaily ✅
+2025-01-15 13:21:46,281 - INFO -   - Source URL extracted: https://pandaily.com/ai-assistant-deepseek-official-app-launched/ 🌐
+2025-01-15 13:21:46,281 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,281 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736726769_shutterstock_2553453443-750x500.jpg 🖼️
+2025-01-15 13:21:46,281 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,281 - INFO -   - Time extracted: 8:15 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,281 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:46,282 - INFO - Article parsing complete: chinese-ai-startup-deepseek-launches-free-ios-app 🎉
+2025-01-15 13:21:46,282 - INFO - Parsing article: None
+2025-01-15 13:21:46,282 - INFO -   - Extracting title...
+2025-01-15 13:21:46,282 - INFO -   - Title extracted: South Korea boosts AI, semiconductor ties with Israel, Japan
+2025-01-15 13:21:46,282 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,282 - INFO -   - Article URL extracted: https://www.techinasia.com/news/south-korea-boosts-ai-semiconductor-ties-israel-japan, ID: south-korea-boosts-ai-semiconductor-ties-israel-japan
+2025-01-15 13:21:46,283 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,283 - INFO -   - Source extracted: Yonhap ✅
+2025-01-15 13:21:46,283 - INFO -   - Source URL extracted: https://en.yna.co.kr/view/AEN20250113000900320 🌐
+2025-01-15 13:21:46,283 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,283 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736311486_shutterstock_1567981987-750x500.jpg 🖼️
+2025-01-15 13:21:46,283 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,283 - INFO -   - Time extracted: 4:20 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,283 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,284 - INFO - Article parsing complete: south-korea-boosts-ai-semiconductor-ties-israel-japan 🎉
+2025-01-15 13:21:46,284 - INFO - Parsing article: None
+2025-01-15 13:21:46,284 - INFO -   - Extracting title...
+2025-01-15 13:21:46,284 - INFO -   - Title extracted: SK Telecom launches GPUaaS for South Korea’s AI data center
+2025-01-15 13:21:46,284 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,284 - INFO -   - Article URL extracted: https://www.techinasia.com/news/sk-telecom-launches-gpuaas-south-koreas-ai-data-center, ID: sk-telecom-launches-gpuaas-south-koreas-ai-data-center
+2025-01-15 13:21:46,284 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,284 - INFO -   - Source extracted: SK Telecom ✅
+2025-01-15 13:21:46,284 - INFO -   - Source URL extracted: http://www.linkedin.com/company/sk-telecom 🌐
+2025-01-15 13:21:46,285 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,285 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736749507_Image-2-SK-Telecom-Launches-AI-Data-Center-based-GPUaaS-750x505.jpg 🖼️
+2025-01-15 13:21:46,285 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,285 - INFO -   - Time extracted: 3:09 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,285 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,285 - INFO - Article parsing complete: sk-telecom-launches-gpuaas-south-koreas-ai-data-center 🎉
+2025-01-15 13:21:46,285 - INFO - Parsing article: None
+2025-01-15 13:21:46,285 - INFO -   - Extracting title...
+2025-01-15 13:21:46,285 - INFO -   - Title extracted: YouTubers sell unused video footage to AI firms
+2025-01-15 13:21:46,285 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,285 - INFO -   - Article URL extracted: https://www.techinasia.com/news/youtubers-sell-unused-video-footage-ai-firms, ID: youtubers-sell-unused-video-footage-ai-firms
+2025-01-15 13:21:46,285 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,285 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:46,286 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-10/youtubers-are-selling-their-unused-video-footage-to-ai-companies?srnd=phx-technology 🌐
+2025-01-15 13:21:46,286 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,286 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2019/08/Youtube-Inc-Youtube-Youtube-Logo-3873587-750x500.jpg 🖼️
+2025-01-15 13:21:46,286 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,286 - INFO -   - Time extracted: 2:54 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:21:46,286 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,286 - INFO - Article parsing complete: youtubers-sell-unused-video-footage-ai-firms 🎉
+2025-01-15 13:21:46,286 - INFO - Parsing article: None
+2025-01-15 13:21:46,286 - INFO -   - Extracting title...
+2025-01-15 13:21:46,286 - INFO -   - Title extracted: Singtel launches Perplexity Pro AI with free year access
+2025-01-15 13:21:46,286 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,286 - INFO -   - Article URL extracted: https://www.techinasia.com/news/singtel-launches-perplexity-pro-ai-free-year-access, ID: singtel-launches-perplexity-pro-ai-free-year-access
+2025-01-15 13:21:46,287 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,287 - INFO -   - Source extracted: Singtel ✅
+2025-01-15 13:21:46,287 - INFO -   - Source URL extracted: https://www.singtel.com/personal/my-account/rewards-perplexity 🌐
+2025-01-15 13:21:46,287 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,287 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736492586_shutterstock_2486442525-750x500.jpg 🖼️
+2025-01-15 13:21:46,287 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,288 - INFO -   - Time extracted: 11:57 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:46,288 - INFO -   - Categories: ['AI'], Tags: ['Singapore']
+2025-01-15 13:21:46,288 - INFO - Article parsing complete: singtel-launches-perplexity-pro-ai-free-year-access 🎉
+2025-01-15 13:21:46,289 - INFO - Parsing article: None
+2025-01-15 13:21:46,289 - INFO -   - Extracting title...
+2025-01-15 13:21:46,289 - INFO -   - Title extracted: China’s DeepSeek relies on young team to challenge US giants
+2025-01-15 13:21:46,289 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,289 - INFO -   - Article URL extracted: https://www.techinasia.com/news/chinas-deepseek-relies-young-team-challenge-giants, ID: chinas-deepseek-relies-young-team-challenge-giants
+2025-01-15 13:21:46,289 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,289 - INFO -   - Source extracted: South China Morning Post ✅
+2025-01-15 13:21:46,289 - INFO -   - Source URL extracted: https://www.scmp.com/tech/big-tech/article/3294357/chinas-ai-disrupter-deepseek-bets-low-key-team-young-geniuses-beat-us-giants 🌐
+2025-01-15 13:21:46,290 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,290 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736726769_shutterstock_2553453443-750x500.jpg 🖼️
+2025-01-15 13:21:46,290 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,290 - INFO -   - Time extracted: 9:30 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:46,290 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:46,290 - INFO - Article parsing complete: chinas-deepseek-relies-young-team-challenge-giants 🎉
+2025-01-15 13:21:46,290 - INFO - Parsing article: None
+2025-01-15 13:21:46,290 - INFO -   - Extracting title...
+2025-01-15 13:21:46,290 - INFO -   - Title extracted: Chinese firms showcase AI robots, EVs at CES 2025
+2025-01-15 13:21:46,290 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,291 - INFO -   - Article URL extracted: https://www.techinasia.com/news/chinese-firms-showcase-ai-robots-evs-ces-2025, ID: chinese-firms-showcase-ai-robots-evs-ces-2025
+2025-01-15 13:21:46,291 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,291 - INFO -   - Source extracted: South China Morning Post ✅
+2025-01-15 13:21:46,291 - INFO -   - Source URL extracted: https://www.scmp.com/tech/big-tech/article/3294433/ces-2025-chinese-firms-show-leading-ai-powered-robots-evs-smart-glasses 🌐
+2025-01-15 13:21:46,291 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,291 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736725757_shutterstock_2411904329-750x500.jpg 🖼️
+2025-01-15 13:21:46,291 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,291 - INFO -   - Time extracted: 8:45 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:46,291 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:46,291 - INFO - Article parsing complete: chinese-firms-showcase-ai-robots-evs-ces-2025 🎉
+2025-01-15 13:21:46,291 - INFO - Parsing article: None
+2025-01-15 13:21:46,291 - INFO -   - Extracting title...
+2025-01-15 13:21:46,292 - INFO -   - Title extracted: Alibaba Cloud launches AI tool for faster app development
+2025-01-15 13:21:46,292 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,292 - INFO -   - Article URL extracted: https://www.techinasia.com/news/alibaba-cloud-launches-ai-tool-faster-app-development, ID: alibaba-cloud-launches-ai-tool-faster-app-development
+2025-01-15 13:21:46,292 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,292 - INFO -   - Source extracted: South China Morning Post ✅
+2025-01-15 13:21:46,292 - INFO -   - Source URL extracted: https://www.scmp.com/tech/big-tech/article/3294096/meet-alibabas-ai-coder-automated-system-can-build-app-minutes 🌐
+2025-01-15 13:21:46,292 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,293 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/10/1727861494_shutterstock_2118466577-750x500.jpg 🖼️
+2025-01-15 13:21:46,293 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,293 - INFO -   - Time extracted: 3:18 PM at Jan 12, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:46,293 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:46,293 - INFO - Article parsing complete: alibaba-cloud-launches-ai-tool-faster-app-development 🎉
+2025-01-15 13:21:46,293 - INFO - Parsing article: None
+2025-01-15 13:21:46,293 - INFO -   - Extracting title...
+2025-01-15 13:21:46,293 - INFO -   - Title extracted: Hyundai partners with Nvidia to advance AI in mobility
+2025-01-15 13:21:46,293 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,293 - INFO -   - Article URL extracted: https://www.techinasia.com/news/hyundai-partners-nvidia-advance-ai-mobility, ID: hyundai-partners-nvidia-advance-ai-mobility
+2025-01-15 13:21:46,293 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,294 - INFO -   - Source extracted: The Korea Times ✅
+2025-01-15 13:21:46,294 - INFO -   - Source URL extracted: https://www.koreatimes.co.kr/www/tech/2025/01/419_390130.html 🌐
+2025-01-15 13:21:46,294 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,294 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1735903833_shutterstock_2493117133-750x563.jpg 🖼️
+2025-01-15 13:21:46,294 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,294 - INFO -   - Time extracted: 2:42 PM at Jan 12, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:21:46,294 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,295 - INFO - Article parsing complete: hyundai-partners-nvidia-advance-ai-mobility 🎉
+2025-01-15 13:21:46,295 - INFO - Parsing article: None
+2025-01-15 13:21:46,295 - INFO -   - Extracting title...
+2025-01-15 13:21:46,295 - INFO -   - Title extracted: Ant Group to connect 280k doctors on Haodf healthcare platform
+2025-01-15 13:21:46,295 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,295 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ant-group-connect-280k-doctors-haodf-healthcare-platform, ID: ant-group-connect-280k-doctors-haodf-healthcare-platform
+2025-01-15 13:21:46,295 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,295 - INFO -   - Source extracted: Ant Group ✅
+2025-01-15 13:21:46,295 - INFO -   - Source URL extracted: https://www.antgroup.com/en/ 🌐
+2025-01-15 13:21:46,296 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,296 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736594361_Cyril-Han-President-of-Ant-Group-speaks-at-the-2025-Haodf-Conference-in-Shanghai-750x500.jpg 🖼️
+2025-01-15 13:21:46,296 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,296 - INFO -   - Time extracted: 8:37 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:46,296 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:21:46,296 - INFO - Article parsing complete: ant-group-connect-280k-doctors-haodf-healthcare-platform 🎉
+2025-01-15 13:21:46,296 - INFO - Parsing article: None
+2025-01-15 13:21:46,296 - INFO -   - Extracting title...
+2025-01-15 13:21:46,296 - INFO -   - Title extracted: OpenAI, Meta, Uber execs set to attend Trump’s inauguration
+2025-01-15 13:21:46,296 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,296 - INFO -   - Article URL extracted: https://www.techinasia.com/news/openai-meta-uber-execs-attend-trumps-inauguration, ID: openai-meta-uber-execs-attend-trumps-inauguration
+2025-01-15 13:21:46,296 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,297 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:46,297 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-10/openai-meta-uber-ceos-plan-to-attend-trump-inauguration-events?srnd=phx-technology 🌐
+2025-01-15 13:21:46,297 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,297 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/12/1735005233_shutterstock_2551951845-750x500.jpg 🖼️
+2025-01-15 13:21:46,297 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,297 - INFO -   - Time extracted: 5:02 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:46,297 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,298 - INFO - Article parsing complete: openai-meta-uber-execs-attend-trumps-inauguration 🎉
+2025-01-15 13:21:46,298 - INFO - Parsing article: None
+2025-01-15 13:21:46,298 - INFO -   - Extracting title...
+2025-01-15 13:21:46,298 - INFO -   - Title extracted: OpenAI considers high-volume production of humanoid robots
+2025-01-15 13:21:46,298 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,298 - INFO -   - Article URL extracted: https://www.techinasia.com/news/openai-considers-highvolume-production-humanoid-robots, ID: openai-considers-highvolume-production-humanoid-robots
+2025-01-15 13:21:46,298 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,299 - INFO -   - Source extracted: TechCrunch ✅
+2025-01-15 13:21:46,299 - INFO -   - Source URL extracted: https://techcrunch.com/2025/01/10/new-openai-job-listings-reveal-its-robotics-plans/ 🌐
+2025-01-15 13:21:46,299 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,299 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/01/1706688900_shutterstock_2275173419-750x500.jpg 🖼️
+2025-01-15 13:21:46,299 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,299 - INFO -   - Time extracted: 4:56 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:46,299 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,300 - INFO - Article parsing complete: openai-considers-highvolume-production-humanoid-robots 🎉
+2025-01-15 13:21:46,300 - INFO - Parsing article: None
+2025-01-15 13:21:46,300 - INFO -   - Extracting title...
+2025-01-15 13:21:46,300 - INFO -   - Title extracted: US agencies partially back Musk’s legal challenge against OpenAI
+2025-01-15 13:21:46,300 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,300 - INFO -   - Article URL extracted: https://www.techinasia.com/news/us-agencies-partially-back-musks-legal-challenge-openai, ID: us-agencies-partially-back-musks-legal-challenge-openai
+2025-01-15 13:21:46,300 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,300 - INFO -   - Source extracted: Bloomberg ✅
+2025-01-15 13:21:46,300 - INFO -   - Source URL extracted: https://www.bloomberg.com/news/articles/2025-01-10/us-supports-musk-challenge-to-openai-microsoft-board-overlaps?srnd=phx-technology 🌐
+2025-01-15 13:21:46,300 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,300 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/05/1683710402_shutterstock_2293553391-750x500.jpg 🖼️
+2025-01-15 13:21:46,301 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,301 - INFO -   - Time extracted: 4:52 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:46,301 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,301 - INFO - Article parsing complete: us-agencies-partially-back-musks-legal-challenge-openai 🎉
+2025-01-15 13:21:46,301 - INFO - Parsing article: None
+2025-01-15 13:21:46,301 - INFO -   - Extracting title...
+2025-01-15 13:21:46,301 - INFO -   - Title extracted: Microsoft sues group over Azure OpenAI service
+2025-01-15 13:21:46,301 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,301 - INFO -   - Article URL extracted: https://www.techinasia.com/news/microsoft-sues-group-azure-openai-service, ID: microsoft-sues-group-azure-openai-service
+2025-01-15 13:21:46,301 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,301 - INFO -   - Source extracted: TechCrunch ✅
+2025-01-15 13:21:46,301 - INFO -   - Source URL extracted: https://techcrunch.com/2025/01/10/microsoft-accuses-group-of-developing-tool-to-abuse-its-ai-service-in-new-lawsuit/ 🌐
+2025-01-15 13:21:46,301 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,302 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736579943_shutterstock_2472113547-750x500.jpg 🖼️
+2025-01-15 13:21:46,302 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,302 - INFO -   - Time extracted: 3:26 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:46,302 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,302 - INFO - Article parsing complete: microsoft-sues-group-azure-openai-service 🎉
+2025-01-15 13:21:46,302 - INFO - Parsing article: None
+2025-01-15 13:21:46,302 - INFO -   - Extracting title...
+2025-01-15 13:21:46,302 - INFO -   - Title extracted: Nvidia raises concerns over Biden’s reported export restrictions
+2025-01-15 13:21:46,302 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,302 - INFO -   - Article URL extracted: https://www.techinasia.com/news/nvidia-raises-concerns-bidens-reported-export-restrictions, ID: nvidia-raises-concerns-bidens-reported-export-restrictions
+2025-01-15 13:21:46,302 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,302 - INFO -   - Source extracted: Reuters ✅
+2025-01-15 13:21:46,302 - INFO -   - Source URL extracted: https://www.reuters.com/technology/nvidia-criticizes-reported-biden-plan-ai-chip-export-curbs-2025-01-10/ 🌐
+2025-01-15 13:21:46,302 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,303 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736233381_shutterstock_2320842535-750x500.jpg 🖼️
+2025-01-15 13:21:46,303 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,303 - INFO -   - Time extracted: 1:24 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:21:46,303 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:21:46,303 - INFO - Article parsing complete: nvidia-raises-concerns-bidens-reported-export-restrictions 🎉
+2025-01-15 13:21:46,303 - INFO - Parsing article: None
+2025-01-15 13:21:46,303 - INFO -   - Extracting title...
+2025-01-15 13:21:46,303 - INFO -   - Title extracted: None
+2025-01-15 13:21:46,303 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,303 - WARNING -   - No article links found.
+2025-01-15 13:21:46,303 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,303 - INFO -   - Source extracted: None ✅
+2025-01-15 13:21:46,303 - INFO -   - Source URL extracted: None 🌐
+2025-01-15 13:21:46,303 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,304 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:21:46,304 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,304 - INFO -   - Time extracted: None ⏰, Relative Time: None
+2025-01-15 13:21:46,304 - INFO -   - Categories: [], Tags: []
+2025-01-15 13:21:46,305 - WARNING - ⚠️ Error parsing article: None, error: 2 validation errors for Article
+title
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+relative_time
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-15 13:21:46,305 - INFO - Parsing article: None
+2025-01-15 13:21:46,305 - INFO -   - Extracting title...
+2025-01-15 13:21:46,305 - INFO -   - Title extracted: None
+2025-01-15 13:21:46,305 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,306 - WARNING -   - No article links found.
+2025-01-15 13:21:46,306 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,306 - INFO -   - Source extracted: None ✅
+2025-01-15 13:21:46,306 - INFO -   - Source URL extracted: None 🌐
+2025-01-15 13:21:46,306 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,306 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:21:46,306 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,306 - INFO -   - Time extracted: None ⏰, Relative Time: None
+2025-01-15 13:21:46,306 - INFO -   - Categories: [], Tags: []
+2025-01-15 13:21:46,306 - WARNING - ⚠️ Error parsing article: None, error: 2 validation errors for Article
+title
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+relative_time
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-15 13:21:46,306 - INFO - Parsing article: None
+2025-01-15 13:21:46,306 - INFO -   - Extracting title...
+2025-01-15 13:21:46,306 - INFO -   - Title extracted: None
+2025-01-15 13:21:46,306 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:21:46,306 - WARNING -   - No article links found.
+2025-01-15 13:21:46,306 - INFO -   - Extracting source... 📰
+2025-01-15 13:21:46,307 - INFO -   - Source extracted: None ✅
+2025-01-15 13:21:46,307 - INFO -   - Source URL extracted: None 🌐
+2025-01-15 13:21:46,307 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:21:46,307 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:21:46,307 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:21:46,307 - INFO -   - Time extracted: None ⏰, Relative Time: None
+2025-01-15 13:21:46,307 - INFO -   - Categories: [], Tags: []
+2025-01-15 13:21:46,307 - WARNING - ⚠️ Error parsing article: None, error: 2 validation errors for Article
+title
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+relative_time
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.10/v/string_type
+2025-01-15 13:21:48,807 - INFO - Saved batch 1 to techinasia_output/techinasia_ai_news_v1_batch_0_20250115_132148.csv
+2025-01-15 13:21:49,813 - INFO - 📊 --- Scraping Summary ---
+2025-01-15 13:21:49,813 - INFO - 📰 Total articles scraped: 30
+2025-01-15 13:21:49,813 - INFO - ✅ Valid articles scraped: 30
+2025-01-15 13:21:49,813 - INFO - ⚠️ Incomplete articles skipped: 0
+2025-01-15 13:21:49,813 - INFO - 🔄 Duplicate articles skipped: 0
+2025-01-15 13:21:49,813 - INFO - ⏱️  Scraping duration: 0:00:14.464254
+2025-01-15 13:21:49,813 - INFO - 📊 ------------------------
+2025-01-15 13:21:49,813 - INFO - Successfully scraped 30 articles

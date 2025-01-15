@@ -1,0 +1,650 @@
+2025-01-15 13:03:48,030 - INFO - Starting TechInAsia scraper v1.7
+2025-01-15 13:03:48,030 - INFO - ====== WebDriver manager ======
+2025-01-15 13:03:48,348 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 13:03:48,463 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-15 13:03:48,560 - INFO - Driver [/Users/apple/.wdm/drivers/chromedriver/mac64/132.0.6834.83/chromedriver-mac-x64/chromedriver] found in cache
+2025-01-15 13:03:50,378 - INFO - patching driver executable /Users/apple/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-01-15 13:03:51,435 - INFO - WebDriver initialized successfully 🚀
+2025-01-15 13:03:51,452 - INFO - Navigating to URL: https://www.techinasia.com/news?category=artificial-intelligence
+2025-01-15 13:03:54,692 - INFO - Page loaded successfully.
+2025-01-15 13:03:54,796 - INFO - Parsing article: None
+2025-01-15 13:03:54,813 - INFO -   - Extracting title...
+2025-01-15 13:03:54,834 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:54,834 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:54,834 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:54,834 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:54,834 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:54,834 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:54,835 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:54,835 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/07/1722327888_menara-ytl-kl-750x422.png 🖼️
+2025-01-15 13:03:54,835 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:54,835 - INFO -   - Time extracted: 11:08 AM at Jan 15, 2025 ⏰, Relative Time: 1h ago
+2025-01-15 13:03:54,835 - INFO -   - Categories: ['AI', 'Fintech'], Tags: ['Malaysia']
+2025-01-15 13:03:54,835 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:54,836 - INFO - Processed article ytl-sea-launch-malaysias-aipowered-digital-bank - Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:54,836 - INFO - Parsing article: None
+2025-01-15 13:03:54,847 - INFO -   - Extracting title...
+2025-01-15 13:03:54,861 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:54,861 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:54,861 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:54,861 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:54,861 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:54,862 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:54,862 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:54,862 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736894729_MetAI.png 🖼️
+2025-01-15 13:03:54,862 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:54,862 - INFO -   - Time extracted: 11:00 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:03:54,862 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:54,862 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:54,863 - INFO - Parsing article: None
+2025-01-15 13:03:54,874 - INFO -   - Extracting title...
+2025-01-15 13:03:54,889 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:54,889 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:54,890 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:54,890 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:54,890 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:54,890 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:54,890 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:54,891 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736482663_shutterstock_2308739453-750x499.jpg 🖼️
+2025-01-15 13:03:54,891 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:54,891 - INFO -   - Time extracted: 10:05 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:03:54,891 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:54,892 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:54,892 - INFO - Parsing article: None
+2025-01-15 13:03:54,905 - INFO -   - Extracting title...
+2025-01-15 13:03:54,919 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:54,919 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:54,919 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:54,919 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:54,919 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:54,919 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:54,920 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:54,920 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/12/1735011218_shutterstock_1956837997-750x553.jpg 🖼️
+2025-01-15 13:03:54,920 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:54,920 - INFO -   - Time extracted: 10:00 AM at Jan 15, 2025 ⏰, Relative Time: 3h ago
+2025-01-15 13:03:54,920 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:54,920 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:54,920 - INFO - Parsing article: None
+2025-01-15 13:03:54,933 - INFO -   - Extracting title...
+2025-01-15 13:03:54,946 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:54,946 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:54,946 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:54,946 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:54,947 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:54,947 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:54,947 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:54,947 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1687941555_shutterstock_2286344107-750x500.jpg 🖼️
+2025-01-15 13:03:54,947 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:54,947 - INFO -   - Time extracted: 9:00 AM at Jan 15, 2025 ⏰, Relative Time: 4h ago
+2025-01-15 13:03:54,947 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:54,948 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:54,948 - INFO - Parsing article: None
+2025-01-15 13:03:54,961 - INFO -   - Extracting title...
+2025-01-15 13:03:54,975 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:54,975 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:54,975 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:54,975 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:54,975 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:54,975 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:54,976 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:54,976 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736413903_shutterstock_1489195400-750x500.jpg 🖼️
+2025-01-15 13:03:54,976 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:54,976 - INFO -   - Time extracted: 6:05 PM at Jan 14, 2025 ⏰, Relative Time: 18h ago
+2025-01-15 13:03:54,976 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:54,976 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:54,977 - INFO - Parsing article: None
+2025-01-15 13:03:54,988 - INFO -   - Extracting title...
+2025-01-15 13:03:55,002 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,002 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,002 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,002 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,002 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,002 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,002 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,002 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736341611_shutterstock_2434408241-750x502.jpg 🖼️
+2025-01-15 13:03:55,002 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,003 - INFO -   - Time extracted: 5:56 PM at Jan 14, 2025 ⏰, Relative Time: 19h ago
+2025-01-15 13:03:55,003 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:55,003 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:55,003 - INFO - Parsing article: None
+2025-01-15 13:03:55,015 - INFO -   - Extracting title...
+2025-01-15 13:03:55,027 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,027 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,027 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,027 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,028 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,028 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,028 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,028 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736148915_shutterstock_2511421515-750x494.jpg 🖼️
+2025-01-15 13:03:55,028 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,028 - INFO -   - Time extracted: 3:38 PM at Jan 14, 2025 ⏰, Relative Time: 21h ago
+2025-01-15 13:03:55,028 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:55,029 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:55,029 - INFO - Parsing article: None
+2025-01-15 13:03:55,040 - INFO -   - Extracting title...
+2025-01-15 13:03:55,053 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,053 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,053 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,053 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,053 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,053 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,053 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,054 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736217646_shutterstock_2486598645-750x500.jpg 🖼️
+2025-01-15 13:03:55,054 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,054 - INFO -   - Time extracted: 3:15 PM at Jan 14, 2025 ⏰, Relative Time: 21h ago
+2025-01-15 13:03:55,054 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:55,054 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:55,054 - INFO - Parsing article: None
+2025-01-15 13:03:55,064 - INFO -   - Extracting title...
+2025-01-15 13:03:55,075 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,075 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,075 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,076 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,076 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,076 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,076 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,076 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2022/07/1659095975_nbazhjy7wm3ehegpohqa-750x422.jpeg 🖼️
+2025-01-15 13:03:55,076 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,076 - INFO -   - Time extracted: 1:02 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:55,076 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:55,076 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:55,076 - INFO - Parsing article: None
+2025-01-15 13:03:55,086 - INFO -   - Extracting title...
+2025-01-15 13:03:55,096 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,096 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,096 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,096 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,096 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,096 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,096 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,096 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/01/1673334449_Microsoft-750x563.jpg 🖼️
+2025-01-15 13:03:55,096 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,097 - INFO -   - Time extracted: 12:26 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:55,097 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:55,097 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:55,097 - INFO - Parsing article: None
+2025-01-15 13:03:55,108 - INFO -   - Extracting title...
+2025-01-15 13:03:55,120 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,120 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,121 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,121 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,121 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,121 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,121 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,121 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736823052_shutterstock_1855090540-750x500.jpg 🖼️
+2025-01-15 13:03:55,121 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,121 - INFO -   - Time extracted: 10:51 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:55,121 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:55,122 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:55,122 - INFO - Parsing article: None
+2025-01-15 13:03:55,133 - INFO -   - Extracting title...
+2025-01-15 13:03:55,145 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,145 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,145 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,145 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,146 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,146 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,146 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,146 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736755030_unnamed-15-750x500.jpg 🖼️
+2025-01-15 13:03:55,146 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,146 - INFO -   - Time extracted: 10:00 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:55,147 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:55,147 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:55,147 - INFO - Parsing article: None
+2025-01-15 13:03:55,158 - INFO -   - Extracting title...
+2025-01-15 13:03:55,171 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,171 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,171 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,171 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,171 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,172 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,172 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,172 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/09/1694664543_shutterstock_552493561-750x500.jpg 🖼️
+2025-01-15 13:03:55,172 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,172 - INFO -   - Time extracted: 9:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:55,172 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:55,172 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:55,172 - INFO - Parsing article: None
+2025-01-15 13:03:55,184 - INFO -   - Extracting title...
+2025-01-15 13:03:55,204 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:55,205 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:55,205 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:55,205 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:55,205 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:55,205 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:55,205 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:55,205 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1686709604_shutterstock_1793510983-750x500.jpg 🖼️
+2025-01-15 13:03:55,205 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:55,206 - INFO -   - Time extracted: 8:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:55,206 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:55,206 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:57,757 - INFO - Scrolled 1 times, found 1 articles
+2025-01-15 13:03:57,976 - INFO - Parsing article: None
+2025-01-15 13:03:58,007 - INFO -   - Extracting title...
+2025-01-15 13:03:58,026 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:58,032 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:58,032 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:58,032 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:58,054 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:58,054 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:58,054 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:58,076 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/07/1722327888_menara-ytl-kl-750x422.png 🖼️
+2025-01-15 13:03:58,076 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:58,097 - INFO -   - Time extracted: 11:08 AM at Jan 15, 2025 ⏰, Relative Time: 1h ago
+2025-01-15 13:03:58,097 - INFO -   - Categories: ['AI', 'Fintech'], Tags: ['Malaysia']
+2025-01-15 13:03:58,098 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:58,118 - INFO - Parsing article: None
+2025-01-15 13:03:58,227 - INFO -   - Extracting title...
+2025-01-15 13:03:58,398 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:58,398 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:58,399 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:58,399 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:58,399 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:58,399 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:58,399 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:58,399 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736894729_MetAI.png 🖼️
+2025-01-15 13:03:58,400 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:58,400 - INFO -   - Time extracted: 11:00 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:03:58,400 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:58,400 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:58,400 - INFO - Parsing article: None
+2025-01-15 13:03:58,413 - INFO -   - Extracting title...
+2025-01-15 13:03:58,650 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:58,650 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:58,651 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:58,651 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:58,651 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:58,651 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:58,651 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:58,651 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736482663_shutterstock_2308739453-750x499.jpg 🖼️
+2025-01-15 13:03:58,651 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:58,652 - INFO -   - Time extracted: 10:05 AM at Jan 15, 2025 ⏰, Relative Time: 2h ago
+2025-01-15 13:03:58,652 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:58,652 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:58,652 - INFO - Parsing article: None
+2025-01-15 13:03:58,667 - INFO -   - Extracting title...
+2025-01-15 13:03:58,697 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:58,706 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:58,706 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:58,706 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:58,707 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:58,707 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:58,728 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:58,729 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/12/1735011218_shutterstock_1956837997-750x553.jpg 🖼️
+2025-01-15 13:03:58,750 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:58,750 - INFO -   - Time extracted: 10:00 AM at Jan 15, 2025 ⏰, Relative Time: 3h ago
+2025-01-15 13:03:58,751 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:58,751 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:58,751 - INFO - Parsing article: None
+2025-01-15 13:03:58,864 - INFO -   - Extracting title...
+2025-01-15 13:03:58,881 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:58,881 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:58,881 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:58,881 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:58,881 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:58,881 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:58,881 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:58,882 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1687941555_shutterstock_2286344107-750x500.jpg 🖼️
+2025-01-15 13:03:58,882 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:58,882 - INFO -   - Time extracted: 9:00 AM at Jan 15, 2025 ⏰, Relative Time: 4h ago
+2025-01-15 13:03:58,882 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:58,882 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:58,883 - INFO - Parsing article: None
+2025-01-15 13:03:58,893 - INFO -   - Extracting title...
+2025-01-15 13:03:58,906 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:58,906 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:58,907 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:58,907 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:58,907 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:58,907 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:58,907 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:58,907 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736413903_shutterstock_1489195400-750x500.jpg 🖼️
+2025-01-15 13:03:58,907 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:58,907 - INFO -   - Time extracted: 6:05 PM at Jan 14, 2025 ⏰, Relative Time: 18h ago
+2025-01-15 13:03:58,907 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:58,908 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:58,908 - INFO - Parsing article: None
+2025-01-15 13:03:58,920 - INFO -   - Extracting title...
+2025-01-15 13:03:58,934 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:58,934 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:58,935 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:58,935 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:58,935 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:58,935 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:58,935 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:58,935 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736341611_shutterstock_2434408241-750x502.jpg 🖼️
+2025-01-15 13:03:58,935 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:58,935 - INFO -   - Time extracted: 5:56 PM at Jan 14, 2025 ⏰, Relative Time: 19h ago
+2025-01-15 13:03:58,935 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:58,936 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:58,936 - INFO - Parsing article: None
+2025-01-15 13:03:58,948 - INFO -   - Extracting title...
+2025-01-15 13:03:58,963 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:58,964 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:58,964 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:58,964 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:58,964 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:58,965 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:58,965 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:58,965 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736148915_shutterstock_2511421515-750x494.jpg 🖼️
+2025-01-15 13:03:58,965 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:58,965 - INFO -   - Time extracted: 3:38 PM at Jan 14, 2025 ⏰, Relative Time: 21h ago
+2025-01-15 13:03:58,966 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:58,966 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:58,966 - INFO - Parsing article: None
+2025-01-15 13:03:58,980 - INFO -   - Extracting title...
+2025-01-15 13:03:58,997 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,001 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,002 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,022 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,022 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,022 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,022 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,023 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736217646_shutterstock_2486598645-750x500.jpg 🖼️
+2025-01-15 13:03:59,023 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,023 - INFO -   - Time extracted: 3:15 PM at Jan 14, 2025 ⏰, Relative Time: 21h ago
+2025-01-15 13:03:59,059 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,059 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,059 - INFO - Parsing article: None
+2025-01-15 13:03:59,070 - INFO -   - Extracting title...
+2025-01-15 13:03:59,083 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,083 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,083 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,083 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,083 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,083 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,084 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,084 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2022/07/1659095975_nbazhjy7wm3ehegpohqa-750x422.jpeg 🖼️
+2025-01-15 13:03:59,084 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,084 - INFO -   - Time extracted: 1:02 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,084 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:59,084 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,084 - INFO - Parsing article: None
+2025-01-15 13:03:59,095 - INFO -   - Extracting title...
+2025-01-15 13:03:59,107 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,107 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,107 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,107 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,108 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,108 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,108 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,108 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/01/1673334449_Microsoft-750x563.jpg 🖼️
+2025-01-15 13:03:59,108 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,108 - INFO -   - Time extracted: 12:26 PM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,108 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,108 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,109 - INFO - Parsing article: None
+2025-01-15 13:03:59,119 - INFO -   - Extracting title...
+2025-01-15 13:03:59,133 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,134 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,134 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,134 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,134 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,134 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,134 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,134 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736823052_shutterstock_1855090540-750x500.jpg 🖼️
+2025-01-15 13:03:59,134 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,135 - INFO -   - Time extracted: 10:51 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,135 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,135 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,135 - INFO - Parsing article: None
+2025-01-15 13:03:59,147 - INFO -   - Extracting title...
+2025-01-15 13:03:59,160 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,160 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,160 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,160 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,161 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,161 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,161 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,161 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736755030_unnamed-15-750x500.jpg 🖼️
+2025-01-15 13:03:59,161 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,161 - INFO -   - Time extracted: 10:00 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,161 - INFO -   - Categories: ['AI', 'Investments'], Tags: []
+2025-01-15 13:03:59,161 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,162 - INFO - Parsing article: None
+2025-01-15 13:03:59,172 - INFO -   - Extracting title...
+2025-01-15 13:03:59,185 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,185 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,186 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,186 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,186 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,186 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,186 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,186 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/09/1694664543_shutterstock_552493561-750x500.jpg 🖼️
+2025-01-15 13:03:59,186 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,186 - INFO -   - Time extracted: 9:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,186 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,187 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,187 - INFO - Parsing article: None
+2025-01-15 13:03:59,198 - INFO -   - Extracting title...
+2025-01-15 13:03:59,211 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,211 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,211 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,211 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,211 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,211 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,211 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,211 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2023/06/1686709604_shutterstock_1793510983-750x500.jpg 🖼️
+2025-01-15 13:03:59,211 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,211 - INFO -   - Time extracted: 8:45 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,211 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,212 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,212 - INFO - Parsing article: None
+2025-01-15 13:03:59,223 - INFO -   - Extracting title...
+2025-01-15 13:03:59,235 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,235 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,235 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,236 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,236 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,236 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,236 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,236 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736726769_shutterstock_2553453443-750x500.jpg 🖼️
+2025-01-15 13:03:59,236 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,236 - INFO -   - Time extracted: 8:15 AM at Jan 14, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,236 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:59,237 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,237 - INFO - Parsing article: None
+2025-01-15 13:03:59,247 - INFO -   - Extracting title...
+2025-01-15 13:03:59,260 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,260 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,260 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,260 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,261 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,261 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,261 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,261 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736311486_shutterstock_1567981987-750x500.jpg 🖼️
+2025-01-15 13:03:59,261 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,262 - INFO -   - Time extracted: 4:20 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,262 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,262 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,262 - INFO - Parsing article: None
+2025-01-15 13:03:59,274 - INFO -   - Extracting title...
+2025-01-15 13:03:59,288 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,288 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,288 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,288 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,289 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,289 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,289 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,289 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736749507_Image-2-SK-Telecom-Launches-AI-Data-Center-based-GPUaaS-750x505.jpg 🖼️
+2025-01-15 13:03:59,289 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,289 - INFO -   - Time extracted: 3:09 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,289 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,289 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,289 - INFO - Parsing article: None
+2025-01-15 13:03:59,300 - INFO -   - Extracting title...
+2025-01-15 13:03:59,312 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,312 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,312 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,312 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,313 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,313 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,313 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,313 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2019/08/Youtube-Inc-Youtube-Youtube-Logo-3873587-750x500.jpg 🖼️
+2025-01-15 13:03:59,313 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,313 - INFO -   - Time extracted: 2:54 PM at Jan 13, 2025 ⏰, Relative Time: 1d ago
+2025-01-15 13:03:59,313 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,314 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,314 - INFO - Parsing article: None
+2025-01-15 13:03:59,324 - INFO -   - Extracting title...
+2025-01-15 13:03:59,338 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,338 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,338 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,339 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,339 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,339 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,339 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,339 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736492586_shutterstock_2486442525-750x500.jpg 🖼️
+2025-01-15 13:03:59,339 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,339 - INFO -   - Time extracted: 11:57 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:03:59,339 - INFO -   - Categories: ['AI'], Tags: ['Singapore']
+2025-01-15 13:03:59,339 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,340 - INFO - Parsing article: None
+2025-01-15 13:03:59,350 - INFO -   - Extracting title...
+2025-01-15 13:03:59,362 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,362 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,363 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,363 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,363 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,363 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,363 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,363 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736726769_shutterstock_2553453443-750x500.jpg 🖼️
+2025-01-15 13:03:59,363 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,363 - INFO -   - Time extracted: 9:30 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:03:59,363 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:59,364 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,364 - INFO - Parsing article: None
+2025-01-15 13:03:59,374 - INFO -   - Extracting title...
+2025-01-15 13:03:59,387 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,387 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,387 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,387 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,388 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,388 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,388 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,388 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736725757_shutterstock_2411904329-750x500.jpg 🖼️
+2025-01-15 13:03:59,388 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,388 - INFO -   - Time extracted: 8:45 AM at Jan 13, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:03:59,388 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:59,389 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,389 - INFO - Parsing article: None
+2025-01-15 13:03:59,399 - INFO -   - Extracting title...
+2025-01-15 13:03:59,410 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,411 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,411 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,411 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,411 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,411 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,411 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,411 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/10/1727861494_shutterstock_2118466577-750x500.jpg 🖼️
+2025-01-15 13:03:59,411 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,411 - INFO -   - Time extracted: 3:18 PM at Jan 12, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:03:59,411 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:59,412 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,412 - INFO - Parsing article: None
+2025-01-15 13:03:59,422 - INFO -   - Extracting title...
+2025-01-15 13:03:59,434 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,434 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,434 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,434 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,435 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,435 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,435 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,435 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1735903833_shutterstock_2493117133-750x563.jpg 🖼️
+2025-01-15 13:03:59,435 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,435 - INFO -   - Time extracted: 2:42 PM at Jan 12, 2025 ⏰, Relative Time: 2d ago
+2025-01-15 13:03:59,435 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,435 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,435 - INFO - Parsing article: None
+2025-01-15 13:03:59,446 - INFO -   - Extracting title...
+2025-01-15 13:03:59,458 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,458 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,458 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,458 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,458 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,458 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,458 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,458 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2025/01/1736594361_Cyril-Han-President-of-Ant-Group-speaks-at-the-2025-Haodf-Conference-in-Shanghai-750x500.jpg 🖼️
+2025-01-15 13:03:59,459 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,459 - INFO -   - Time extracted: 8:37 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:03:59,459 - INFO -   - Categories: ['AI'], Tags: ['China']
+2025-01-15 13:03:59,459 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,459 - INFO - Parsing article: None
+2025-01-15 13:03:59,469 - INFO -   - Extracting title...
+2025-01-15 13:03:59,481 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,481 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,482 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,482 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,482 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,482 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,482 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,482 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/12/1735005233_shutterstock_2551951845-750x500.jpg 🖼️
+2025-01-15 13:03:59,482 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,482 - INFO -   - Time extracted: 5:02 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:03:59,483 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,483 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,483 - INFO - Parsing article: None
+2025-01-15 13:03:59,493 - INFO -   - Extracting title...
+2025-01-15 13:03:59,505 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,505 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,505 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,505 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,506 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,506 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,506 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,506 - INFO -   - Image URL extracted: https://cdn.techinasia.com/wp-content/uploads/2024/01/1706688900_shutterstock_2275173419-750x500.jpg 🖼️
+2025-01-15 13:03:59,506 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,506 - INFO -   - Time extracted: 4:56 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:03:59,506 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,506 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,506 - INFO - Parsing article: None
+2025-01-15 13:03:59,517 - INFO -   - Extracting title...
+2025-01-15 13:03:59,529 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,529 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,529 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,529 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,529 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,529 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,529 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,529 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:03:59,529 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,529 - INFO -   - Time extracted: 4:52 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:03:59,530 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,530 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,530 - INFO - Parsing article: None
+2025-01-15 13:03:59,541 - INFO -   - Extracting title...
+2025-01-15 13:03:59,564 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,564 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,564 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,564 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,564 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,564 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,565 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,565 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:03:59,565 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,565 - INFO -   - Time extracted: 3:26 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:03:59,565 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,565 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:03:59,566 - INFO - Parsing article: None
+2025-01-15 13:03:59,577 - INFO -   - Extracting title...
+2025-01-15 13:03:59,590 - INFO -   - Title extracted: Ytl, Sea launch Malaysia’s first AI-powered digital bank
+2025-01-15 13:03:59,590 - INFO -   - Extracting article URL and ID...
+2025-01-15 13:03:59,590 - INFO -   - Article URL extracted: https://www.techinasia.com/news/ytl-sea-launch-malaysias-aipowered-digital-bank, ID: ytl-sea-launch-malaysias-aipowered-digital-bank
+2025-01-15 13:03:59,590 - INFO -   - Extracting source... 📰
+2025-01-15 13:03:59,590 - INFO -   - Source extracted: Ryt Bank ✅
+2025-01-15 13:03:59,590 - INFO -   - Source URL extracted: https://www.linkedin.com/company/rytbankmy/ 🌐
+2025-01-15 13:03:59,590 - INFO -   - Extracting image URL... 🖼️
+2025-01-15 13:03:59,591 - INFO -   - Image URL extracted: None 🖼️
+2025-01-15 13:03:59,591 - INFO -   - Extracting time and categories/tags... ⏰
+2025-01-15 13:03:59,591 - INFO -   - Time extracted: 1:24 PM at Jan 11, 2025 ⏰, Relative Time: 11 Jan 2025
+2025-01-15 13:03:59,591 - INFO -   - Categories: ['AI'], Tags: []
+2025-01-15 13:03:59,591 - INFO - Article parsing complete: ytl-sea-launch-malaysias-aipowered-digital-bank 🎉
+2025-01-15 13:04:01,695 - INFO - Saved batch 1 to techinasia_output/techinasia_ai_news_v1_batch_0_20250115_130401.csv
+2025-01-15 13:04:02,649 - INFO - 📊 --- Scraping Summary ---
+2025-01-15 13:04:02,649 - INFO - 📰 Total articles scraped: 1
+2025-01-15 13:04:02,649 - INFO - ✅ Valid articles scraped: 1
+2025-01-15 13:04:02,649 - INFO - ⚠️ Incomplete articles skipped: 0
+2025-01-15 13:04:02,649 - INFO - 🔄 Duplicate articles skipped: 0
+2025-01-15 13:04:02,649 - INFO - ⏱️  Scraping duration: 0:00:14.618832
+2025-01-15 13:04:02,649 - INFO - 📊 ------------------------
+2025-01-15 13:04:02,649 - INFO - Successfully scraped 1 articles
